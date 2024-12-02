@@ -215,7 +215,7 @@ flamethrower-turret
 artillery-turret
 artillery-targeting-remote
 radar
-player-port
+personal-roboport-equipment
 item-unknown
 electric-energy-interface
 linked-chest

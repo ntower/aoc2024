@@ -10,7 +10,7 @@ from typing import Literal
 # Draftsman has not yet been updated for factorio 2.0. I need to add additional
 # capabilities to combinators
 class MyCombinator(ConstantCombinator):
-    def set_signal(self, index, signal, count=0, quality: Literal["normal", "uncommon", "rare", "epic", "legendary"] = "normal", section_index=0):
+    def set_signal(self, index, name, count=0, quality: Literal["normal", "uncommon", "rare", "epic", "legendary"] = "normal", section_index=0):
         # type: (int, str, int, str, int) -> None
         if "sections" not in self.control_behavior:
             self.control_behavior["sections"] = { "sections": [] }
@@ -19,7 +19,7 @@ class MyCombinator(ConstantCombinator):
         found_section = None
         for (i, section) in enumerate(self.control_behavior["sections"]["sections"]):
             if section_index + 1 == section["index"]:
-                if signal is None:
+                if name is None:
                     del self.control_behavior["sections"]["sections"][i]
                     return
                 else:
@@ -37,12 +37,12 @@ class MyCombinator(ConstantCombinator):
         # check to see if the filter already exists
         for (i, filter) in enumerate(found_section["filters"]):
             if index + 1 == filter["index"]:
-                if signal is None:
+                if name is None:
                     del found_section["filters"][i]
                 else:
                     found_section["filters"][i] = {
                         "index": index + 1,
-                        "name": signal,
+                        "name": name,
                         "quality": quality,
                         "comparator": "=",
                         "count": count,
@@ -52,7 +52,7 @@ class MyCombinator(ConstantCombinator):
         # if no filter was found, create a new one
         found_section["filters"].append({
             "index": index + 1,
-            "name": signal,
+            "name": name,
             "quality": quality,
             "comparator": "=",
             "count": count,
@@ -101,7 +101,7 @@ def place_combinator(combinator: MyCombinator, side:str):
     blueprint.entities.append(combinator)
 
 
-for item in open('./day1/items.txt', 'r').read().splitlines():
+for item in open('./items.txt', 'r').read().splitlines():
     if (signals_added >= TOTAL_SIGNALS):
         break
 
