@@ -76,7 +76,7 @@ def list_signals():
 reports: list[list[int]] = []
 
 for line in open('./day2/input.txt', 'r').read().splitlines():
-    reports.append(line.split(' '))
+    reports.append([int(item) for item in line.strip().split(' ')])
 
 # Create a factorio blueprint with a series of constant combinators. 
 # Combinator 1 contains the first value for all 1000 reports, then #2 contains
