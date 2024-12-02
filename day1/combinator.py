@@ -1,11 +1,11 @@
 from draftsman.blueprintable import Blueprint
 from draftsman.entity import ConstantCombinator
-from draftsman.data import items
+# from draftsman.data import items
 from draftsman.error import DuplicateIDError
-from draftsman.utils import string_to_JSON, JSON_to_string
+# from draftsman.utils import string_to_JSON, JSON_to_string
 from typing import Literal
 
-print(string_to_JSON('0eNqlkN0KgkAQhd9lrjcpU9N9lQhZbagBnZXdVRLZd2+si4igi7qbv3O+wyzQdCMOjjiAXoBayx70cQFPFzbdOmPTI2hYN8Fw2LS2b4hNsA6iAuIz3kDv4kkBcqBA+DR4NHPNY9+gkwP1zUjBYL1oLa9E8UvLfZIrmEEfklwwIgrOdnWDVzORKOTMY7sq/Hst6FemGKP6iJL+GqX4M4q8iAL2An49XcGEzj9oeZFWWVXlWZWWRbaN8Q4+0I2C'))
+# print(string_to_JSON('0eNqlkN0KgkAQhd9lrjcpU9N9lQhZbagBnZXdVRLZd2+si4igi7qbv3O+wyzQdCMOjjiAXoBayx70cQFPFzbdOmPTI2hYN8Fw2LS2b4hNsA6iAuIz3kDv4kkBcqBA+DR4NHPNY9+gkwP1zUjBYL1oLa9E8UvLfZIrmEEfklwwIgrOdnWDVzORKOTMY7sq/Hst6FemGKP6iJL+GqX4M4q8iAL2An49XcGEzj9oeZFWWVXlWZWWRbaN8Q4+0I2C'))
 
 # Draftsman has not yet been updated for factorio 2.0. I need to add additional
 # capabilities to combinators
@@ -84,7 +84,6 @@ right_combinator = None
 
 COMBINATOR_SLOTS = 200000 # There is no longer a limit on the number of signals. Used to have to split into multiple combinators.
 TOTAL_SIGNALS = len(left)
-COMBINATOR_HEIGHT = 5
 signals_added = 0
 row_index = 0
 
