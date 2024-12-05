@@ -101,7 +101,7 @@ def place_combinator(combinator: MyCombinator, side:str):
     blueprint.entities.append(combinator)
 
 
-for item in open('./items.txt', 'r').read().splitlines():
+for item in open('./day1/items.txt', 'r').read().splitlines():
     if (signals_added >= TOTAL_SIGNALS):
         break
 

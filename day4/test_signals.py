@@ -1,12 +1,16 @@
 from draftsman.blueprintable import Blueprint
 from draftsman.entity import ConstantCombinator
 from typing import Literal
+import pyperclip as pc 
+from draftsman.utils import string_to_JSON, JSON_to_string
+
+# pc.copy(string_to_JSON('0eNqdkvFqgzAQxt/l/o6lWi1T2JOMUqLetoC5uHjaifjuu+jm6GArK4Lol/t+912SCcqmx9YbYigmMJWjDoqnCTrzQroJGmmLUEBYYU0cVc6WhjQ7D7MCQzW+QxHPJwVIbNjgClh+xjP1tkQvBeovkILWdeJ1FDoKL8kPu0zBKMZ4l0kfcbF3zbnEVz0YsUhdh1WwdNff0vsrlIJn0zD6nyqPbUgyGM+9DLlFq92FIu29u4j2JksygcjkvF3KJHGr/ZK4gMdF6MPGxbPa8Mnv+HVPo9rx/fjDTbzH+n58ehO/vx+ebaxQalFO5v+4kzxzuG0bYz3dz9gmDC+v6x6h3jBakb/vu4JBzMudy45JnuZ5lubJwzHdz/MH780GTQ=='))
 
 # Draftsman has not yet been updated for factorio 2.0. I need to add additional
 # capabilities to combinators
 class MyConstantCombinator(ConstantCombinator):
-    def set_signal(self, index, signal, count=0, quality: Literal["normal", "uncommon", "rare", "epic", "legendary"] = "normal", section_index=0):
-        # type: (int, str, int, str, int) -> None
+    def set_signal(self, index, signal, count=0, quality: Literal["normal", "uncommon", "rare", "epic", "legendary"] = "normal", section_index=0, type="item"):
+        # type: (int, str, int, str, int, str) -> None
         if "sections" not in self.control_behavior:
             self.control_behavior["sections"] = { "sections": [] }
 
@@ -41,6 +45,7 @@ class MyConstantCombinator(ConstantCombinator):
                         "quality": quality,
                         "comparator": "=",
                         "count": count,
+                        "type": type
                     }
                 return
             
@@ -51,6 +56,7 @@ class MyConstantCombinator(ConstantCombinator):
             "quality": quality,
             "comparator": "=",
             "count": count,
+            "type": type
         })
     
     @property
@@ -63,21 +69,13 @@ class MyConstantCombinator(ConstantCombinator):
 # in the game, but it's a good starting point.
 def list_signals():
     # type: () -> list[dict]
-    raw = open('./day2/items.txt', 'r').read().splitlines()
-    items= [(tuple(item.rsplit(" ", 1)) if " " in item else (item, None)) for item in raw]
+    raw = open('./day4/items.txt', 'r').read().splitlines()
+    items= [(tuple(item.rsplit(" ", 1)) if " " in item else (item, "item")) for item in raw]
     signals = []
     for item in items:
-        for quality in ('normal', 'uncommon', 'rare', 'epic', 'legendary'):        
-            signals.append({ "name": item[0], "type": item[1], "quality": quality })
+    #     for quality in ('normal', 'uncommon', 'rare', 'epic', 'legendary'):        
+        signals.append({ "name": item[0], "type": item[1], "quality": 'normal' })
     return signals
-
-
-# Process the input file into a list of lists
-
-reports: list[list[int]] = []
-
-for line in open('./day2/input.txt', 'r').read().splitlines():
-    reports.append([int(item) for item in line.strip().split(' ')])
 
 # Create a factorio blueprint with a series of constant combinators. 
 # Combinator 1 contains the first value for all 1000 reports, then #2 contains
@@ -86,25 +84,22 @@ for line in open('./day2/input.txt', 'r').read().splitlines():
 blueprint = Blueprint()
 blueprint.setup(version = 562949954928640) #2.0.23
 
-
-combinators: list[MyConstantCombinator] = []
-for i in range(8):
-    combinator = MyConstantCombinator()
-    combinator.id = "combinator_{}".format(i)
-    combinator.tile_position = (i * 2, 0)
-    combinators.append(combinator)
+combinator = MyConstantCombinator()
 
 signals = list_signals()
+signals_per_section = 1000
 
-for (report_index, report) in enumerate(reports):
-    for (value_index, value) in enumerate(report):
-        combinator = combinators[value_index]
-        signal = signals[report_index]
-        combinator.set_signal(report_index, signal["name"], value, signal["quality"])
+signals_added = 0
+def section_index():
+    return signals_added // signals_per_section
+def item_index():
+    return signals_added % signals_per_section
 
-for i in range(8):
-    blueprint.entities.append(combinators[i])
+for signal in signals:
+    for quality in ('normal', 'uncommon', 'rare', 'epic', 'legendary'):
+        combinator.set_signal(item_index(), signal["name"], 1, quality, section_index(), signal["type"])
+        signals_added += 1
 
+blueprint.entities.append(combinator)
 
-        
-print(blueprint.to_string())
+pc.copy(blueprint.to_string()) 
