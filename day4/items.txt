@@ -1,422 +1,35 @@
+1x2-remnants entity
 accumulator
-discharge-defense-equipment
-personal-laser-defense-equipment
-agricultural-tower
-artillery-shell
-atomic-bomb
-cannon-shell
-capture-robot-rocket
-explosive-cannon-shell
-explosive-rocket
-explosive-uranium-cannon-shell
-firearm-magazine
-flamethrower-ammo
-piercing-rounds-magazine
-piercing-shotgun-shell
-railgun-ammo
-rocket
-shotgun-shell
-tesla-ammo
-uranium-cannon-shell
-uranium-rounds-magazine
-gun-turret
-railgun-turret
-rocket-turret
-arithmetic-combinator
-heavy-armor
-light-armor
-mech-armor
-modular-armor
-power-armor
-power-armor-mk2
-artillery-turret
-artillery-wagon
-assembling-machine-1
-assembling-machine-2
-assembling-machine-3
-biochamber
-captive-biter-spawner
-centrifuge
-chemical-plant
-crusher
-cryogenic-plant
-electromagnetic-plant
-foundry
-oil-refinery
-big-carbonic-asteroid entity
-big-metallic-asteroid entity
-big-oxide-asteroid entity
-big-promethium-asteroid entity
-huge-carbonic-asteroid entity
-huge-metallic-asteroid entity
-huge-oxide-asteroid entity
-huge-promethium-asteroid entity
-medium-carbonic-asteroid entity
-medium-metallic-asteroid entity
-medium-oxide-asteroid entity
-medium-promethium-asteroid entity
-small-carbonic-asteroid entity
-small-metallic-asteroid entity
-small-oxide-asteroid entity
-small-promethium-asteroid entity
-carbonic-asteroid-chunk
-metallic-asteroid-chunk
-oxide-asteroid-chunk
-promethium-asteroid-chunk
-asteroid-collector
-battery-equipment
-battery-mk2-equipment
-battery-mk3-equipment
-beacon
-belt-immunity-equipment
-blueprint
-blueprint-book
-boiler
-heat-exchanger
-burner-generator
-burner-generator entity
-artillery-targeting-remote
-bioflux
-cliff-explosives
-cluster-grenade
-defender-capsule
-destroyer-capsule
-discharge-defense-remote
-distractor-capsule
-grenade
-jelly
-jellynut
-poison-capsule
-raw-fish
-slowdown-capsule
-yumako
-yumako-mash
-car
-tank
-cargo-bay
-cargo-landing-pad
-cargo-wagon
-cliff entity
-cliff-fulgora entity
-cliff-gleba entity
-cliff-vulcanus entity
-crater-cliff entity
-defender entity
-destroyer entity
-distractor entity
-constant-combinator
-construction-robot
-decider-combinator
-deconstruction-planner
-display-panel
-electric-energy-interface
-big-electric-pole
-medium-electric-pole
-small-electric-pole
-substation
-laser-turret
-tesla-turret
-energy-shield-equipment
-energy-shield-mk2-equipment
-entity-ghost entity
-entity-unknown entity
-tile-proxy entity
-tree-dying-proxy entity
-tree-proxy entity
-fish entity
-ammonia fluid
-ammoniacal-solution fluid
-crude-oil fluid
-electrolyte fluid
-fluid-unknown fluid
-fluorine fluid
-fluoroketone-cold fluid
-fluoroketone-hot fluid
-fusion-plasma fluid
-heavy-oil fluid
-holmium-solution fluid
-lava fluid
-light-oil fluid
-lithium-brine fluid
-lubricant fluid
-molten-copper fluid
-molten-iron fluid
-parameter-0 fluid
-parameter-1 fluid
-parameter-2 fluid
-parameter-3 fluid
-parameter-4 fluid
-parameter-5 fluid
-parameter-6 fluid
-parameter-7 fluid
-parameter-8 fluid
-parameter-9 fluid
-petroleum-gas fluid
-steam fluid
-sulfuric-acid fluid
-thruster-fuel fluid
-thruster-oxidizer fluid
-water fluid
-flamethrower-turret
-fluid-wagon
-electric-furnace
-recycler
-steel-furnace
-stone-furnace
-fusion-generator
-fusion-reactor
-gate
-steam-engine
-steam-turbine
-fission-reactor-equipment
-fusion-reactor-equipment
-artillery-wagon-cannon
-combat-shotgun
-flamethrower
-pistol
-railgun
-rocket-launcher
-shotgun
-spidertron-rocket-launcher-1
-spidertron-rocket-launcher-2
-spidertron-rocket-launcher-3
-spidertron-rocket-launcher-4
-submachine-gun
-tank-cannon
-tank-flamethrower
-tank-machine-gun
-teslagun
-vehicle-machine-gun
-half-diagonal-rail entity
-heat-interface
-heat-pipe
-infinity-chest
-infinity-chest entity
-infinity-pipe
-infinity-pipe entity
-bulk-inserter
-burner-inserter
-fast-inserter
-inserter
-long-handed-inserter
-stack-inserter
-toolbelt-equipment
-active-provider-chest
-advanced-circuit
-artificial-jellynut-soil
-artificial-yumako-soil
-barrel
-battery
-big-mining-drill
-biolab
-biter-egg
-buffer-chest
-burner-mining-drill
-calcite
-calcite entity
-carbon
-carbon-fiber
-coal
-coal entity
-coin
-concrete
-copper-bacteria
-copper-cable
-copper-ore
-copper-ore entity
-copper-plate
-copper-wire
-crude-oil-barrel
-depleted-uranium-fuel-cell
-electric-engine-unit
-electric-mining-drill
-electronic-circuit
-empty-module-slot
-engine-unit
-exoskeleton-equipment
-explosives
-express-loader
-express-splitter
-express-transport-belt
-express-underground-belt
-fast-loader
-fast-splitter
-fast-transport-belt
-fast-underground-belt
-fluoroketone-cold-barrel
-fluoroketone-hot-barrel
-flying-robot-frame
-foundation
-fusion-power-cell
-green-wire
-hazard-concrete
-heating-tower
-heavy-oil-barrel
-holmium-ore
-holmium-plate
-ice
-ice-platform
-iron-bacteria
-iron-chest
-iron-gear-wheel
-iron-ore
-iron-plate
-iron-stick
-item-unknown
-jellynut-seed
-lab
-land-mine
-landfill
-lane-splitter
-light-oil-barrel
-lightning-collector
-lightning-rod
-linked-belt
-linked-chest
-lithium
-lithium-plate
-loader
-logistic-robot
-low-density-structure
-lubricant-barrel
-night-vision-equipment
-nuclear-fuel
-nuclear-reactor
-nutrients
-offshore-pump
-overgrowth-jellynut-soil
-overgrowth-yumako-soil
-parameter-0
-parameter-1
-parameter-2
-parameter-3
-parameter-4
-parameter-5
-parameter-6
-parameter-7
-parameter-8
-parameter-9
-passive-provider-chest
-pentapod-egg
-personal-roboport-equipment
-personal-roboport-mk2-equipment
-petroleum-gas-barrel
-pipe
-pipe-to-ground
-plastic-bar
-power-switch
-processing-unit
-programmable-speaker
-pump
-pumpjack
-quantum-processor
-radar
-rail-chain-signal
-rail-signal
-rail-support
-red-wire
-refined-concrete
-refined-hazard-concrete
-requester-chest
-roboport
-rocket-fuel
-rocket-part
-rocket-silo
-science
-scrap
-selector-combinator
-simple-entity-with-force
-simple-entity-with-owner
-small-lamp
-solar-panel
-solar-panel-equipment
-solid-fuel
-space-platform-foundation
-space-platform-hub
-splitter
-spoilage
-steel-chest
-steel-plate
-stone entity
-stone-brick
-stone-wall
-storage-chest
-storage-tank
-sulfur
-sulfuric-acid-barrel
-supercapacitor
-superconductor
-thruster
-train-stop
-transport-belt
-tree-seed
-tungsten-carbide
-tungsten-ore
-tungsten-ore entity
-tungsten-plate
-turbo-loader
-turbo-splitter
-turbo-transport-belt
-turbo-underground-belt
-underground-belt
-uranium-235
-uranium-238
-uranium-fuel-cell
-uranium-ore
-uranium-ore entity
-water-barrel
-wooden-chest
-yumako-seed
-item-on-ground entity
-item-request-proxy entity
-locomotive
-spidertron
-legacy-curved-rail entity
-legacy-straight-rail entity
-lightning entity
-fulgoran-ruin-attractor entity
-efficiency-module
-efficiency-module-2
-efficiency-module-3
-productivity-module
-productivity-module-2
-productivity-module-3
-quality-module
-quality-module-2
-quality-module-3
-speed-module
-speed-module-2
-speed-module-3
-aquilo space-location
-fulgora space-location
-gleba space-location
-nauvis space-location
-vulcanus space-location
-jellystem entity
-tree-plant entity
-yumako-tree entity
-epic quality
-legendary quality
-normal quality
-quality-unknown quality
-rare quality
-uncommon quality
-rail
-rail-ramp
-dummy-rail-ramp entity
-curved-rail-a-remnants entity
-curved-rail-b-remnants entity
-half-diagonal-rail-remnants entity
-legacy-curved-rail-remnants entity
-legacy-straight-rail-remnants entity
-straight-rail-remnants entity
-dummy-rail-support entity
+accumulator entity
 accumulator recipe
+accumulator-explosion entity
 accumulator-recycling recipe
+accumulator-remnants entity
 acid-neutralisation recipe
+acid-splash-fire-spitter-behemoth entity
+acid-splash-fire-spitter-big entity
+acid-splash-fire-spitter-medium entity
+acid-splash-fire-spitter-small entity
+acid-splash-fire-worm-behemoth entity
+acid-splash-fire-worm-big entity
+acid-splash-fire-worm-medium entity
+acid-splash-fire-worm-small entity
+acid-stream-spitter-behemoth entity
+acid-stream-spitter-big entity
+acid-stream-spitter-medium entity
+acid-stream-spitter-small entity
+acid-stream-worm-behemoth entity
+acid-stream-worm-big entity
+acid-stream-worm-medium entity
+acid-stream-worm-small entity
+active-provider-chest
+active-provider-chest entity
 active-provider-chest recipe
+active-provider-chest-explosion entity
 active-provider-chest-recycling recipe
+active-provider-chest-remnants entity
 advanced-carbonic-asteroid-crushing recipe
+advanced-circuit
 advanced-circuit recipe
 advanced-circuit-recycling recipe
 advanced-metallic-asteroid-crushing recipe
@@ -426,676 +39,163 @@ advanced-thruster-fuel recipe
 advanced-thruster-oxidizer recipe
 agricultural-science-pack recipe
 agricultural-science-pack-recycling recipe
+agricultural-tower
+agricultural-tower entity
 agricultural-tower recipe
+agricultural-tower-explosion entity
 agricultural-tower-recycling recipe
+agricultural-tower-remnants entity
+ammonia fluid
 ammonia-rocket-fuel recipe
+ammoniacal-solution fluid
 ammoniacal-solution-separation recipe
+aquilo space-location
+aquilo-tiles-inner-explosion entity
+aquilo-tiles-outer-explosion entity
+arithmetic-combinator
+arithmetic-combinator entity
 arithmetic-combinator recipe
+arithmetic-combinator-explosion entity
 arithmetic-combinator-recycling recipe
+arithmetic-combinator-remnants entity
+artificial-jellynut-soil
 artificial-jellynut-soil recipe
 artificial-jellynut-soil-recycling recipe
+artificial-yumako-soil
 artificial-yumako-soil recipe
 artificial-yumako-soil-recycling recipe
+artillery-cannon-muzzle-flash entity
+artillery-shell
 artillery-shell recipe
 artillery-shell-recycling recipe
+artillery-targeting-remote
 artillery-targeting-remote-recycling recipe
+artillery-turret
+artillery-turret entity
 artillery-turret recipe
+artillery-turret-explosion entity
 artillery-turret-recycling recipe
+artillery-turret-remnants entity
+artillery-wagon
+artillery-wagon entity
 artillery-wagon recipe
+artillery-wagon-cannon
 artillery-wagon-cannon-recycling recipe
+artillery-wagon-explosion entity
 artillery-wagon-recycling recipe
+artillery-wagon-remnants entity
+ashland-lichen-tree entity
+ashland-lichen-tree-flaming entity
+ashland-lichen-tree-stump entity
+assembling-machine-1
+assembling-machine-1 entity
 assembling-machine-1 recipe
+assembling-machine-1-explosion entity
 assembling-machine-1-recycling recipe
+assembling-machine-1-remnants entity
+assembling-machine-2
+assembling-machine-2 entity
 assembling-machine-2 recipe
+assembling-machine-2-explosion entity
 assembling-machine-2-recycling recipe
+assembling-machine-2-remnants entity
+assembling-machine-3
+assembling-machine-3 entity
 assembling-machine-3 recipe
+assembling-machine-3-explosion entity
 assembling-machine-3-recycling recipe
+assembling-machine-3-remnants entity
+asteroid-collector
+asteroid-collector entity
 asteroid-collector recipe
 asteroid-collector-recycling recipe
+atomic-bomb
 atomic-bomb recipe
 atomic-bomb-recycling recipe
+atomic-fire-smoke entity
+atomic-nuke-shockwave entity
 automation-science-pack recipe
 automation-science-pack-recycling recipe
+barrel
 barrel recipe
 barrel-recycling recipe
 basic-oil-processing recipe
+battery
 battery recipe
+battery-equipment
 battery-equipment recipe
 battery-equipment-recycling recipe
+battery-mk2-equipment
 battery-mk2-equipment recipe
 battery-mk2-equipment-recycling recipe
+battery-mk3-equipment
 battery-mk3-equipment recipe
 battery-mk3-equipment-recycling recipe
 battery-recycling recipe
+beacon
+beacon entity
 beacon recipe
+beacon-explosion entity
 beacon-recycling recipe
+beacon-remnants entity
+behemoth-biter entity
+behemoth-biter-corpse entity
+behemoth-biter-die entity
+behemoth-spitter entity
+behemoth-spitter-corpse entity
+behemoth-spitter-die entity
+behemoth-worm-corpse entity
+behemoth-worm-corpse-burrowed entity
+behemoth-worm-die entity
+behemoth-worm-turret entity
+belt-immunity-equipment
 belt-immunity-equipment recipe
 belt-immunity-equipment-recycling recipe
-big-electric-pole recipe
-big-electric-pole-recycling recipe
-big-mining-drill recipe
-big-mining-drill-recycling recipe
-biochamber recipe
-biochamber-recycling recipe
-bioflux recipe
-bioflux-recycling recipe
-biolab recipe
-biolab-recycling recipe
-biolubricant recipe
-bioplastic recipe
-biosulfur recipe
-biter-egg recipe
-biter-egg-recycling recipe
-blueprint-book-recycling recipe
-blueprint-recycling recipe
-boiler recipe
-boiler-recycling recipe
-buffer-chest recipe
-buffer-chest-recycling recipe
-bulk-inserter recipe
-bulk-inserter-recycling recipe
-burner-generator-recycling recipe
-burner-inserter recipe
-burner-inserter-recycling recipe
-burner-mining-drill recipe
-burner-mining-drill-recycling recipe
-burnt-spoilage recipe
-calcite-recycling recipe
-cannon-shell recipe
-cannon-shell-recycling recipe
-captive-biter-spawner recipe
-captive-biter-spawner-recycling recipe
-capture-robot-rocket recipe
-capture-robot-rocket-recycling recipe
-car recipe
-car-recycling recipe
-carbon recipe
-carbon-fiber recipe
-carbon-fiber-recycling recipe
-carbon-recycling recipe
-carbonic-asteroid-chunk-recycling recipe
-carbonic-asteroid-crushing recipe
-carbonic-asteroid-reprocessing recipe
-cargo-bay recipe
-cargo-bay-recycling recipe
-cargo-landing-pad recipe
-cargo-landing-pad-recycling recipe
-cargo-wagon recipe
-cargo-wagon-recycling recipe
-casting-copper recipe
-casting-copper-cable recipe
-casting-iron recipe
-casting-iron-gear-wheel recipe
-casting-iron-stick recipe
-casting-low-density-structure recipe
-casting-pipe recipe
-casting-pipe-to-ground recipe
-casting-steel recipe
-centrifuge recipe
-centrifuge-recycling recipe
-chemical-plant recipe
-chemical-plant-recycling recipe
-chemical-science-pack recipe
-chemical-science-pack-recycling recipe
-cliff-explosives recipe
-cliff-explosives-recycling recipe
-cluster-grenade recipe
-cluster-grenade-recycling recipe
-coal-liquefaction recipe
-coal-recycling recipe
-coal-synthesis recipe
-coin-recycling recipe
-combat-shotgun recipe
-combat-shotgun-recycling recipe
-concrete recipe
-concrete-from-molten-iron recipe
-concrete-recycling recipe
-constant-combinator recipe
-constant-combinator-recycling recipe
-construction-robot recipe
-construction-robot-recycling recipe
-copper-bacteria recipe
-copper-bacteria-cultivation recipe
-copper-bacteria-recycling recipe
-copper-cable recipe
-copper-cable-recycling recipe
-copper-ore-recycling recipe
-copper-plate recipe
-copper-plate-recycling recipe
-copper-wire-recycling recipe
-copy-paste-tool-recycling recipe
-crude-oil-barrel recipe
-crude-oil-barrel-recycling recipe
-crusher recipe
-crusher-recycling recipe
-cryogenic-plant recipe
-cryogenic-plant-recycling recipe
-cryogenic-science-pack recipe
-cryogenic-science-pack-recycling recipe
-cut-paste-tool-recycling recipe
-decider-combinator recipe
-decider-combinator-recycling recipe
-deconstruction-planner-recycling recipe
-defender-capsule recipe
-defender-capsule-recycling recipe
-depleted-uranium-fuel-cell-recycling recipe
-destroyer-capsule recipe
-destroyer-capsule-recycling recipe
-discharge-defense-equipment recipe
-discharge-defense-equipment-recycling recipe
-discharge-defense-remote-recycling recipe
-display-panel recipe
-display-panel-recycling recipe
-distractor-capsule recipe
-distractor-capsule-recycling recipe
-efficiency-module recipe
-efficiency-module-2 recipe
-efficiency-module-2-recycling recipe
-efficiency-module-3 recipe
-efficiency-module-3-recycling recipe
-efficiency-module-recycling recipe
-electric-energy-interface-recycling recipe
-electric-engine-unit recipe
-electric-engine-unit-recycling recipe
-electric-furnace recipe
-electric-furnace-recycling recipe
-electric-mining-drill recipe
-electric-mining-drill-recycling recipe
-electrolyte recipe
-electromagnetic-plant recipe
-electromagnetic-plant-recycling recipe
-electromagnetic-science-pack recipe
-electromagnetic-science-pack-recycling recipe
-electronic-circuit recipe
-electronic-circuit-recycling recipe
-empty-crude-oil-barrel recipe
-empty-fluoroketone-cold-barrel recipe
-empty-fluoroketone-hot-barrel recipe
-empty-heavy-oil-barrel recipe
-empty-light-oil-barrel recipe
-empty-lubricant-barrel recipe
-empty-module-slot-recycling recipe
-empty-petroleum-gas-barrel recipe
-empty-sulfuric-acid-barrel recipe
-empty-water-barrel recipe
-energy-shield-equipment recipe
-energy-shield-equipment-recycling recipe
-energy-shield-mk2-equipment recipe
-energy-shield-mk2-equipment-recycling recipe
-engine-unit recipe
-engine-unit-recycling recipe
-exoskeleton-equipment recipe
-exoskeleton-equipment-recycling recipe
-explosive-cannon-shell recipe
-explosive-cannon-shell-recycling recipe
-explosive-rocket recipe
-explosive-rocket-recycling recipe
-explosive-uranium-cannon-shell recipe
-explosive-uranium-cannon-shell-recycling recipe
-explosives recipe
-explosives-recycling recipe
-express-loader recipe
-express-loader-recycling recipe
-express-splitter recipe
-express-splitter-recycling recipe
-express-transport-belt recipe
-express-transport-belt-recycling recipe
-express-underground-belt recipe
-express-underground-belt-recycling recipe
-fast-inserter recipe
-fast-inserter-recycling recipe
-fast-loader recipe
-fast-loader-recycling recipe
-fast-splitter recipe
-fast-splitter-recycling recipe
-fast-transport-belt recipe
-fast-transport-belt-recycling recipe
-fast-underground-belt recipe
-fast-underground-belt-recycling recipe
-firearm-magazine recipe
-firearm-magazine-recycling recipe
-fish-breeding recipe
-fission-reactor-equipment recipe
-fission-reactor-equipment-recycling recipe
-flamethrower recipe
-flamethrower-ammo recipe
-flamethrower-ammo-recycling recipe
-flamethrower-recycling recipe
-flamethrower-turret recipe
-flamethrower-turret-recycling recipe
-fluid-wagon recipe
-fluid-wagon-recycling recipe
-fluoroketone recipe
-fluoroketone-cold-barrel recipe
-fluoroketone-cold-barrel-recycling recipe
-fluoroketone-cooling recipe
-fluoroketone-hot-barrel recipe
-fluoroketone-hot-barrel-recycling recipe
-flying-robot-frame recipe
-flying-robot-frame-recycling recipe
-foundation recipe
-foundation-recycling recipe
-foundry recipe
-foundry-recycling recipe
-fusion-generator recipe
-fusion-generator-recycling recipe
-fusion-power-cell recipe
-fusion-power-cell-recycling recipe
-fusion-reactor recipe
-fusion-reactor-equipment recipe
-fusion-reactor-equipment-recycling recipe
-fusion-reactor-recycling recipe
-gate recipe
-gate-recycling recipe
-green-wire-recycling recipe
-grenade recipe
-grenade-recycling recipe
-gun-turret recipe
-gun-turret-recycling recipe
-hazard-concrete recipe
-hazard-concrete-recycling recipe
-heat-exchanger recipe
-heat-exchanger-recycling recipe
-heat-interface recipe
-heat-interface-recycling recipe
-heat-pipe recipe
-heat-pipe-recycling recipe
-heating-tower recipe
-heating-tower-recycling recipe
-heavy-armor recipe
-heavy-armor-recycling recipe
-heavy-oil-barrel recipe
-heavy-oil-barrel-recycling recipe
-heavy-oil-cracking recipe
-holmium-ore-recycling recipe
-holmium-plate recipe
-holmium-plate-recycling recipe
-holmium-solution recipe
-ice-melting recipe
-ice-platform recipe
-ice-platform-recycling recipe
-ice-recycling recipe
-infinity-chest recipe
-infinity-chest-recycling recipe
-infinity-pipe recipe
-infinity-pipe-recycling recipe
-inserter recipe
-inserter-recycling recipe
-iron-bacteria recipe
-iron-bacteria-cultivation recipe
-iron-bacteria-recycling recipe
-iron-chest recipe
-iron-chest-recycling recipe
-iron-gear-wheel recipe
-iron-gear-wheel-recycling recipe
-iron-ore-recycling recipe
-iron-plate recipe
-iron-plate-recycling recipe
-iron-stick recipe
-iron-stick-recycling recipe
-item-unknown-recycling recipe
-jelly-recycling recipe
-jellynut-processing recipe
-jellynut-recycling recipe
-jellynut-seed-recycling recipe
-kovarex-enrichment-process recipe
-lab recipe
-lab-recycling recipe
-land-mine recipe
-land-mine-recycling recipe
-landfill recipe
-landfill-recycling recipe
-lane-splitter-recycling recipe
-laser-turret recipe
-laser-turret-recycling recipe
-light-armor recipe
-light-armor-recycling recipe
-light-oil-barrel recipe
-light-oil-barrel-recycling recipe
-light-oil-cracking recipe
-lightning-collector recipe
-lightning-collector-recycling recipe
-lightning-rod recipe
-lightning-rod-recycling recipe
-linked-belt-recycling recipe
-linked-chest-recycling recipe
-lithium recipe
-lithium-plate recipe
-lithium-plate-recycling recipe
-lithium-recycling recipe
-loader recipe
-loader-recycling recipe
-locomotive recipe
-locomotive-recycling recipe
-logistic-robot recipe
-logistic-robot-recycling recipe
-logistic-science-pack recipe
-logistic-science-pack-recycling recipe
-long-handed-inserter recipe
-long-handed-inserter-recycling recipe
-low-density-structure recipe
-low-density-structure-recycling recipe
-lubricant recipe
-lubricant-barrel recipe
-lubricant-barrel-recycling recipe
-mech-armor recipe
-mech-armor-recycling recipe
-medium-electric-pole recipe
-medium-electric-pole-recycling recipe
-metallic-asteroid-chunk-recycling recipe
-metallic-asteroid-crushing recipe
-metallic-asteroid-reprocessing recipe
-metallurgic-science-pack recipe
-metallurgic-science-pack-recycling recipe
-military-science-pack recipe
-military-science-pack-recycling recipe
-modular-armor recipe
-modular-armor-recycling recipe
-molten-copper recipe
-molten-copper-from-lava recipe
-molten-iron recipe
-molten-iron-from-lava recipe
-night-vision-equipment recipe
-night-vision-equipment-recycling recipe
-nuclear-fuel recipe
-nuclear-fuel-recycling recipe
-nuclear-fuel-reprocessing recipe
-nuclear-reactor recipe
-nuclear-reactor-recycling recipe
-nutrients-from-bioflux recipe
-nutrients-from-biter-egg recipe
-nutrients-from-fish recipe
-nutrients-from-spoilage recipe
-nutrients-from-yumako-mash recipe
-nutrients-recycling recipe
-offshore-pump recipe
-offshore-pump-recycling recipe
-oil-refinery recipe
-oil-refinery-recycling recipe
-overgrowth-jellynut-soil recipe
-overgrowth-jellynut-soil-recycling recipe
-overgrowth-yumako-soil recipe
-overgrowth-yumako-soil-recycling recipe
-oxide-asteroid-chunk-recycling recipe
-oxide-asteroid-crushing recipe
-oxide-asteroid-reprocessing recipe
-parameter-0 recipe
-parameter-0-recycling recipe
-parameter-1 recipe
-parameter-1-recycling recipe
-parameter-2 recipe
-parameter-2-recycling recipe
-parameter-3 recipe
-parameter-3-recycling recipe
-parameter-4 recipe
-parameter-4-recycling recipe
-parameter-5 recipe
-parameter-5-recycling recipe
-parameter-6 recipe
-parameter-6-recycling recipe
-parameter-7 recipe
-parameter-7-recycling recipe
-parameter-8 recipe
-parameter-8-recycling recipe
-parameter-9 recipe
-parameter-9-recycling recipe
-passive-provider-chest recipe
-passive-provider-chest-recycling recipe
-pentapod-egg recipe
-pentapod-egg-recycling recipe
-personal-laser-defense-equipment recipe
-personal-laser-defense-equipment-recycling recipe
-personal-roboport-equipment recipe
-personal-roboport-equipment-recycling recipe
-personal-roboport-mk2-equipment recipe
-personal-roboport-mk2-equipment-recycling recipe
-petroleum-gas-barrel recipe
-petroleum-gas-barrel-recycling recipe
-piercing-rounds-magazine recipe
-piercing-rounds-magazine-recycling recipe
-piercing-shotgun-shell recipe
-piercing-shotgun-shell-recycling recipe
-pipe recipe
-pipe-recycling recipe
-pipe-to-ground recipe
-pipe-to-ground-recycling recipe
-pistol recipe
-pistol-recycling recipe
-plastic-bar recipe
-plastic-bar-recycling recipe
-poison-capsule recipe
-poison-capsule-recycling recipe
-power-armor recipe
-power-armor-mk2 recipe
-power-armor-mk2-recycling recipe
-power-armor-recycling recipe
-power-switch recipe
-power-switch-recycling recipe
-processing-unit recipe
-processing-unit-recycling recipe
-production-science-pack recipe
-production-science-pack-recycling recipe
-productivity-module recipe
-productivity-module-2 recipe
-productivity-module-2-recycling recipe
-productivity-module-3 recipe
-productivity-module-3-recycling recipe
-productivity-module-recycling recipe
-programmable-speaker recipe
-programmable-speaker-recycling recipe
-promethium-asteroid-chunk-recycling recipe
-promethium-science-pack recipe
-promethium-science-pack-recycling recipe
-pump recipe
-pump-recycling recipe
-pumpjack recipe
-pumpjack-recycling recipe
-quality-module recipe
-quality-module-2 recipe
-quality-module-2-recycling recipe
-quality-module-3 recipe
-quality-module-3-recycling recipe
-quality-module-recycling recipe
-quantum-processor recipe
-quantum-processor-recycling recipe
-radar recipe
-radar-recycling recipe
-rail recipe
-rail-chain-signal recipe
-rail-chain-signal-recycling recipe
-rail-ramp recipe
-rail-ramp-recycling recipe
-rail-recycling recipe
-rail-signal recipe
-rail-signal-recycling recipe
-rail-support recipe
-rail-support-recycling recipe
-railgun recipe
-railgun-ammo recipe
-railgun-ammo-recycling recipe
-railgun-recycling recipe
-railgun-turret recipe
-railgun-turret-recycling recipe
-raw-fish-recycling recipe
-recipe-unknown recipe
-recycler recipe
-recycler-recycling recipe
-red-wire-recycling recipe
-refined-concrete recipe
-refined-concrete-recycling recipe
-refined-hazard-concrete recipe
-refined-hazard-concrete-recycling recipe
-repair-pack recipe
-repair-pack-recycling recipe
-requester-chest recipe
-requester-chest-recycling recipe
-roboport recipe
-roboport-recycling recipe
-rocket recipe
-rocket-fuel recipe
-rocket-fuel-from-jelly recipe
-rocket-fuel-recycling recipe
-rocket-launcher recipe
-rocket-launcher-recycling recipe
-rocket-part recipe
-rocket-part-recycling recipe
-rocket-recycling recipe
-rocket-silo recipe
-rocket-silo-recycling recipe
-rocket-turret recipe
-rocket-turret-recycling recipe
-science-recycling recipe
-scrap-recycling recipe
-selection-tool-recycling recipe
-selector-combinator recipe
-selector-combinator-recycling recipe
-shotgun recipe
-shotgun-recycling recipe
-shotgun-shell recipe
-shotgun-shell-recycling recipe
-simple-coal-liquefaction recipe
-simple-entity-with-force-recycling recipe
-simple-entity-with-owner-recycling recipe
-slowdown-capsule recipe
-slowdown-capsule-recycling recipe
-small-electric-pole recipe
-small-electric-pole-recycling recipe
-small-lamp recipe
-small-lamp-recycling recipe
-solar-panel recipe
-solar-panel-equipment recipe
-solar-panel-equipment-recycling recipe
-solar-panel-recycling recipe
-solid-fuel-from-ammonia recipe
-solid-fuel-from-heavy-oil recipe
-solid-fuel-from-light-oil recipe
-solid-fuel-from-petroleum-gas recipe
-solid-fuel-recycling recipe
-space-platform-foundation recipe
-space-platform-foundation-recycling recipe
-space-platform-hub-recycling recipe
-space-platform-starter-pack recipe
-space-platform-starter-pack-recycling recipe
-space-science-pack recipe
-space-science-pack-recycling recipe
-speed-module recipe
-speed-module-2 recipe
-speed-module-2-recycling recipe
-speed-module-3 recipe
-speed-module-3-recycling recipe
-speed-module-recycling recipe
-spidertron recipe
-spidertron-recycling recipe
-spidertron-remote-recycling recipe
-spidertron-rocket-launcher-1-recycling recipe
-spidertron-rocket-launcher-2-recycling recipe
-spidertron-rocket-launcher-3-recycling recipe
-spidertron-rocket-launcher-4-recycling recipe
-splitter recipe
-splitter-recycling recipe
-spoilage-recycling recipe
-stack-inserter recipe
-stack-inserter-recycling recipe
-steam-condensation recipe
-steam-engine recipe
-steam-engine-recycling recipe
-steam-turbine recipe
-steam-turbine-recycling recipe
-steel-chest recipe
-steel-chest-recycling recipe
-steel-furnace recipe
-steel-furnace-recycling recipe
-steel-plate recipe
-steel-plate-recycling recipe
-stone-brick recipe
-stone-brick-recycling recipe
-stone-furnace recipe
-stone-furnace-recycling recipe
-stone-recycling recipe
-stone-wall recipe
-stone-wall-recycling recipe
-storage-chest recipe
-storage-chest-recycling recipe
-storage-tank recipe
-storage-tank-recycling recipe
-submachine-gun recipe
-submachine-gun-recycling recipe
-substation recipe
-substation-recycling recipe
-sulfur recipe
-sulfur-recycling recipe
-sulfuric-acid recipe
-sulfuric-acid-barrel recipe
-sulfuric-acid-barrel-recycling recipe
-supercapacitor recipe
-supercapacitor-recycling recipe
-superconductor recipe
-superconductor-recycling recipe
-tank recipe
-tank-cannon-recycling recipe
-tank-flamethrower-recycling recipe
-tank-machine-gun-recycling recipe
-tank-recycling recipe
-tesla-ammo recipe
-tesla-ammo-recycling recipe
-tesla-turret recipe
-tesla-turret-recycling recipe
-teslagun recipe
-teslagun-recycling recipe
-thruster recipe
-thruster-fuel recipe
-thruster-oxidizer recipe
-thruster-recycling recipe
-toolbelt-equipment recipe
-toolbelt-equipment-recycling recipe
-train-stop recipe
-train-stop-recycling recipe
-transport-belt recipe
-transport-belt-recycling recipe
-tree-seed-recycling recipe
-tungsten-carbide recipe
-tungsten-carbide-recycling recipe
-tungsten-ore-recycling recipe
-tungsten-plate recipe
-tungsten-plate-recycling recipe
-turbo-loader recipe
-turbo-loader-recycling recipe
-turbo-splitter recipe
-turbo-splitter-recycling recipe
-turbo-transport-belt recipe
-turbo-transport-belt-recycling recipe
-turbo-underground-belt recipe
-turbo-underground-belt-recycling recipe
-underground-belt recipe
-underground-belt-recycling recipe
-upgrade-planner-recycling recipe
-uranium-235-recycling recipe
-uranium-238-recycling recipe
-uranium-cannon-shell recipe
-uranium-cannon-shell-recycling recipe
-uranium-fuel-cell recipe
-uranium-fuel-cell-recycling recipe
-uranium-ore-recycling recipe
-uranium-processing recipe
-uranium-rounds-magazine recipe
-uranium-rounds-magazine-recycling recipe
-utility-science-pack recipe
-utility-science-pack-recycling recipe
-vehicle-machine-gun-recycling recipe
-water-barrel recipe
-water-barrel-recycling recipe
-wood-processing recipe
-wood-recycling recipe
-wooden-chest recipe
-wooden-chest-recycling recipe
-yumako-mash-recycling recipe
-yumako-processing recipe
-yumako-recycling recipe
-yumako-seed-recycling recipe
-crude-oil entity
-fluorine-vent entity
-lithium-brine entity
-sulfuric-acid-geyser entity
+big-acid-splash-fire-stomper entity
+big-acid-stream-stomper entity
+big-artillery-explosion entity
+big-biter entity
+big-biter-corpse entity
+big-biter-die entity
+big-carbonic-asteroid entity
+big-demolisher entity
+big-demolisher-ash-cloud entity
+big-demolisher-ash-cloud-trail entity
+big-demolisher-corpse entity
+big-demolisher-expanding-ash-cloud-1 entity
+big-demolisher-expanding-ash-cloud-10 entity
+big-demolisher-expanding-ash-cloud-11 entity
+big-demolisher-expanding-ash-cloud-12 entity
+big-demolisher-expanding-ash-cloud-13 entity
+big-demolisher-expanding-ash-cloud-14 entity
+big-demolisher-expanding-ash-cloud-15 entity
+big-demolisher-expanding-ash-cloud-16 entity
+big-demolisher-expanding-ash-cloud-17 entity
+big-demolisher-expanding-ash-cloud-18 entity
+big-demolisher-expanding-ash-cloud-19 entity
+big-demolisher-expanding-ash-cloud-2 entity
+big-demolisher-expanding-ash-cloud-20 entity
+big-demolisher-expanding-ash-cloud-21 entity
+big-demolisher-expanding-ash-cloud-22 entity
+big-demolisher-expanding-ash-cloud-23 entity
+big-demolisher-expanding-ash-cloud-24 entity
+big-demolisher-expanding-ash-cloud-25 entity
+big-demolisher-expanding-ash-cloud-26 entity
+big-demolisher-expanding-ash-cloud-27 entity
+big-demolisher-expanding-ash-cloud-28 entity
+big-demolisher-expanding-ash-cloud-29 entity
+big-demolisher-expanding-ash-cloud-3 entity
+big-demolisher-expanding-ash-cloud-30 entity
+big-demolisher-expanding-ash-cloud-4 entity
+big-demolisher-expanding-ash-cloud-5 entity
+big-demolisher-expanding-ash-cloud-6 entity
+big-demolisher-expanding-ash-cloud-7 entity
+big-demolisher-expanding-ash-cloud-8 entity
+big-demolisher-expanding-ash-cloud-9 entity
+big-demolisher-fissure entity
+big-demolisher-fissure-damage-explosion entity
+big-demolisher-fissure-explosion entity
+big-demolisher-fissure-scorchmark entity
 big-demolisher-segment-x0_65 entity
 big-demolisher-segment-x0_77 entity
 big-demolisher-segment-x0_87 entity
@@ -1116,6 +216,860 @@ big-demolisher-segment-x1_4 entity
 big-demolisher-segment-x1_41 entity
 big-demolisher-segment-x1_52 entity
 big-demolisher-tail-x0_64 entity
+big-demolisher-trail-lower entity
+big-demolisher-trail-upper entity
+big-electric-pole
+big-electric-pole recipe
+big-electric-pole-explosion entity
+big-electric-pole-recycling recipe
+big-electric-pole-remnants entity
+big-explosion entity
+big-fulgora-rock entity
+big-metallic-asteroid entity
+big-mining-drill
+big-mining-drill recipe
+big-mining-drill-explosion entity
+big-mining-drill-recycling recipe
+big-mining-drill-remnants entity
+big-oxide-asteroid entity
+big-promethium-asteroid entity
+big-remnants entity
+big-rock entity
+big-sand-rock entity
+big-scorchmark entity
+big-scorchmark-tintable entity
+big-spitter entity
+big-spitter-corpse entity
+big-spitter-die entity
+big-stomper-corpse entity
+big-stomper-pentapod entity
+big-stomper-pentapod-die entity
+big-stomper-pentapod-leg entity
+big-stomper-pentapod-leg-die entity
+big-stomper-shell entity
+big-strafer-corpse entity
+big-strafer-pentapod entity
+big-strafer-pentapod-die entity
+big-strafer-pentapod-leg entity
+big-strafer-pentapod-leg-die entity
+big-volcanic-rock entity
+big-worm-corpse entity
+big-worm-corpse-burrowed entity
+big-worm-die entity
+big-worm-turret entity
+big-wriggler-die entity
+big-wriggler-pentapod entity
+big-wriggler-pentapod-corpse entity
+big-wriggler-pentapod-premature entity
+biochamber
+biochamber entity
+biochamber recipe
+biochamber-explosion entity
+biochamber-recycling recipe
+biochamber-remnants entity
+bioflux
+bioflux recipe
+bioflux-recycling recipe
+biolab
+biolab entity
+biolab recipe
+biolab-explosion entity
+biolab-recycling recipe
+biolab-remnants entity
+biolubricant recipe
+bioplastic recipe
+biosulfur recipe
+biter-egg
+biter-egg recipe
+biter-egg-recycling recipe
+biter-spawner entity
+biter-spawner-corpse entity
+biter-spawner-die entity
+blood-explosion-big entity
+blood-explosion-huge entity
+blood-explosion-small entity
+blood-fountain entity
+blood-fountain-big entity
+blood-fountain-hit-spray entity
+blue-chest entity
+blueprint
+blueprint-book
+blueprint-book-recycling recipe
+blueprint-recycling recipe
+boiler
+boiler entity
+boiler recipe
+boiler-explosion entity
+boiler-recycling recipe
+boiler-remnants entity
+boompuff entity
+boompuff-explosion entity
+buffer-chest
+buffer-chest recipe
+buffer-chest-explosion entity
+buffer-chest-recycling recipe
+buffer-chest-remnants entity
+bulk-inserter
+bulk-inserter recipe
+bulk-inserter-explosion entity
+bulk-inserter-recycling recipe
+bulk-inserter-remnants entity
+burner-generator
+burner-generator entity
+burner-generator-recycling recipe
+burner-inserter
+burner-inserter entity
+burner-inserter recipe
+burner-inserter-explosion entity
+burner-inserter-recycling recipe
+burner-inserter-remnants entity
+burner-mining-drill
+burner-mining-drill entity
+burner-mining-drill recipe
+burner-mining-drill-explosion entity
+burner-mining-drill-recycling recipe
+burner-mining-drill-remnants entity
+burnt-spoilage recipe
+calcite
+calcite entity
+calcite-recycling recipe
+cannon-shell
+cannon-shell recipe
+cannon-shell-recycling recipe
+captive-biter-spawner
+captive-biter-spawner entity
+captive-biter-spawner recipe
+captive-biter-spawner-recycling recipe
+captive-spawner-explosion-1 entity
+captive-spawner-explosion-2 entity
+capture-robot-explosion entity
+capture-robot-rocket
+capture-robot-rocket recipe
+capture-robot-rocket-recycling recipe
+car
+car entity
+car recipe
+car-explosion entity
+car-recycling recipe
+car-remnants entity
+carbon
+carbon recipe
+carbon-fiber
+carbon-fiber recipe
+carbon-fiber-recycling recipe
+carbon-recycling recipe
+carbonic-asteroid-chunk
+carbonic-asteroid-chunk-recycling recipe
+carbonic-asteroid-crushing recipe
+carbonic-asteroid-explosion-1 entity
+carbonic-asteroid-explosion-2 entity
+carbonic-asteroid-explosion-3 entity
+carbonic-asteroid-explosion-4 entity
+carbonic-asteroid-explosion-5 entity
+carbonic-asteroid-reprocessing recipe
+cargo-bay
+cargo-bay entity
+cargo-bay recipe
+cargo-bay-recycling recipe
+cargo-bay-remnants entity
+cargo-landing-pad
+cargo-landing-pad entity
+cargo-landing-pad recipe
+cargo-landing-pad-recycling recipe
+cargo-landing-pad-remnants entity
+cargo-pod-container entity
+cargo-pod-container-explosion entity
+cargo-pod-container-remnants entity
+cargo-wagon
+cargo-wagon entity
+cargo-wagon recipe
+cargo-wagon-explosion entity
+cargo-wagon-recycling recipe
+cargo-wagon-remnants entity
+casting-copper recipe
+casting-copper-cable recipe
+casting-iron recipe
+casting-iron-gear-wheel recipe
+casting-iron-stick recipe
+casting-low-density-structure recipe
+casting-pipe recipe
+casting-pipe-to-ground recipe
+casting-steel recipe
+centrifuge
+centrifuge entity
+centrifuge recipe
+centrifuge-explosion entity
+centrifuge-recycling recipe
+centrifuge-remnants entity
+chemical-plant
+chemical-plant entity
+chemical-plant recipe
+chemical-plant-explosion entity
+chemical-plant-recycling recipe
+chemical-plant-remnants entity
+chemical-science-pack recipe
+chemical-science-pack-recycling recipe
+cliff entity
+cliff-explosives
+cliff-explosives recipe
+cliff-explosives-recycling recipe
+cliff-fulgora entity
+cliff-gleba entity
+cliff-vulcanus entity
+cluster-grenade
+cluster-grenade recipe
+cluster-grenade-recycling recipe
+cluster-nuke-explosion entity
+coal
+coal entity
+coal-liquefaction recipe
+coal-recycling recipe
+coal-synthesis recipe
+coin
+coin-recycling recipe
+combat-shotgun
+combat-shotgun recipe
+combat-shotgun-recycling recipe
+concrete
+concrete recipe
+concrete-from-molten-iron recipe
+concrete-recycling recipe
+constant-combinator
+constant-combinator recipe
+constant-combinator-explosion entity
+constant-combinator-recycling recipe
+constant-combinator-remnants entity
+construction-robot
+construction-robot recipe
+construction-robot-explosion entity
+construction-robot-recycling recipe
+construction-robot-remnants entity
+copper-bacteria
+copper-bacteria recipe
+copper-bacteria-cultivation recipe
+copper-bacteria-recycling recipe
+copper-cable
+copper-cable recipe
+copper-cable-recycling recipe
+copper-ore
+copper-ore entity
+copper-ore-recycling recipe
+copper-plate
+copper-plate recipe
+copper-plate-recycling recipe
+copper-stromatolite entity
+copper-wire
+copper-wire-recycling recipe
+copy-paste-tool-recycling recipe
+crash-site-chest-1 entity
+crash-site-chest-2 entity
+crash-site-explosion-smoke entity
+crash-site-fire-flame entity
+crash-site-fire-smoke entity
+crash-site-spaceship entity
+crash-site-spaceship-wreck-big-1 entity
+crash-site-spaceship-wreck-big-2 entity
+crash-site-spaceship-wreck-medium-1 entity
+crash-site-spaceship-wreck-medium-2 entity
+crash-site-spaceship-wreck-medium-3 entity
+crash-site-spaceship-wreck-small-1 entity
+crash-site-spaceship-wreck-small-2 entity
+crash-site-spaceship-wreck-small-3 entity
+crash-site-spaceship-wreck-small-4 entity
+crash-site-spaceship-wreck-small-5 entity
+crash-site-spaceship-wreck-small-6 entity
+crater-cliff entity
+crude-oil entity
+crude-oil fluid
+crude-oil-barrel
+crude-oil-barrel recipe
+crude-oil-barrel-recycling recipe
+crusher
+crusher entity
+crusher recipe
+crusher-recycling recipe
+cryogenic-plant
+cryogenic-plant entity
+cryogenic-plant recipe
+cryogenic-plant-explosion entity
+cryogenic-plant-recycling recipe
+cryogenic-plant-remnants entity
+cryogenic-science-pack recipe
+cryogenic-science-pack-recycling recipe
+curved-rail-a-remnants entity
+curved-rail-b-remnants entity
+cut-paste-tool-recycling recipe
+cuttlepop entity
+dead-dry-hairy-tree entity
+dead-grey-trunk entity
+dead-tree-desert entity
+decider-combinator
+decider-combinator entity
+decider-combinator recipe
+decider-combinator-explosion entity
+decider-combinator-recycling recipe
+decider-combinator-remnants entity
+deconstruction-planner
+deconstruction-planner-recycling recipe
+defender entity
+defender-capsule
+defender-capsule recipe
+defender-capsule-recycling recipe
+defender-remnants entity
+defender-robot-explosion entity
+demolisher-ash-cloud-visual-dummy entity
+depleted-uranium-fuel-cell
+depleted-uranium-fuel-cell-recycling recipe
+destroyer entity
+destroyer-capsule
+destroyer-capsule recipe
+destroyer-capsule-recycling recipe
+destroyer-remnants entity
+destroyer-robot-explosion entity
+discharge-defense-equipment
+discharge-defense-equipment recipe
+discharge-defense-equipment-recycling recipe
+discharge-defense-remote
+discharge-defense-remote-recycling recipe
+display-panel
+display-panel entity
+display-panel recipe
+display-panel-recycling recipe
+distractor entity
+distractor-capsule
+distractor-capsule recipe
+distractor-capsule-recycling recipe
+distractor-remnants entity
+distractor-robot-explosion entity
+down-arrow virtual
+down-left-arrow virtual
+down-right-arrow virtual
+dry-hairy-tree entity
+dry-tree entity
+dummy-elevated-curved-rail-a entity
+dummy-elevated-curved-rail-b entity
+dummy-elevated-half-diagonal-rail entity
+dummy-elevated-straight-rail entity
+dummy-rail-ramp entity
+dummy-rail-ramp entity
+dummy-rail-support entity
+dummy-rail-support entity
+dummy-spider-unit entity
+efficiency-module
+efficiency-module recipe
+efficiency-module-2
+efficiency-module-2 recipe
+efficiency-module-2-recycling recipe
+efficiency-module-3
+efficiency-module-3 recipe
+efficiency-module-3-recycling recipe
+efficiency-module-recycling recipe
+electric-energy-interface
+electric-energy-interface-recycling recipe
+electric-engine-unit
+electric-engine-unit recipe
+electric-engine-unit-recycling recipe
+electric-furnace
+electric-furnace entity
+electric-furnace recipe
+electric-furnace-explosion entity
+electric-furnace-recycling recipe
+electric-furnace-remnants entity
+electric-mining-drill
+electric-mining-drill entity
+electric-mining-drill recipe
+electric-mining-drill-explosion entity
+electric-mining-drill-recycling recipe
+electric-mining-drill-remnants entity
+electrolyte fluid
+electrolyte recipe
+electromagnetic-plant
+electromagnetic-plant entity
+electromagnetic-plant recipe
+electromagnetic-plant-explosion entity
+electromagnetic-plant-recycling recipe
+electromagnetic-plant-remnants entity
+electromagnetic-science-pack recipe
+electromagnetic-science-pack-recycling recipe
+electronic-circuit
+electronic-circuit recipe
+electronic-circuit-recycling recipe
+elevated-rail-explosion entity
+elevated-rail-remnants entity
+empty-crude-oil-barrel recipe
+empty-fluoroketone-cold-barrel recipe
+empty-fluoroketone-hot-barrel recipe
+empty-heavy-oil-barrel recipe
+empty-light-oil-barrel recipe
+empty-lubricant-barrel recipe
+empty-module-slot
+empty-module-slot-recycling recipe
+empty-petroleum-gas-barrel recipe
+empty-sulfuric-acid-barrel recipe
+empty-water-barrel recipe
+enemy-damaged-explosion entity
+energy-shield-equipment
+energy-shield-equipment recipe
+energy-shield-equipment-recycling recipe
+energy-shield-mk2-equipment
+energy-shield-mk2-equipment recipe
+energy-shield-mk2-equipment-recycling recipe
+engine-unit
+engine-unit recipe
+engine-unit-recycling recipe
+entity-ghost entity
+entity-unknown entity
+epic quality
+exoskeleton-equipment
+exoskeleton-equipment recipe
+exoskeleton-equipment-recycling recipe
+explosion entity
+explosion-gunshot entity
+explosion-gunshot-small entity
+explosion-hit entity
+explosive-cannon-shell
+explosive-cannon-shell recipe
+explosive-cannon-shell-recycling recipe
+explosive-rocket
+explosive-rocket recipe
+explosive-rocket-recycling recipe
+explosive-uranium-cannon-shell
+explosive-uranium-cannon-shell recipe
+explosive-uranium-cannon-shell-recycling recipe
+explosives
+explosives recipe
+explosives-recycling recipe
+express-loader
+express-loader entity
+express-loader recipe
+express-loader-recycling recipe
+express-splitter
+express-splitter entity
+express-splitter recipe
+express-splitter-explosion entity
+express-splitter-recycling recipe
+express-splitter-remnants entity
+express-transport-belt
+express-transport-belt entity
+express-transport-belt recipe
+express-transport-belt-explosion entity
+express-transport-belt-recycling recipe
+express-transport-belt-remnants entity
+express-underground-belt
+express-underground-belt entity
+express-underground-belt recipe
+express-underground-belt-explosion entity
+express-underground-belt-recycling recipe
+express-underground-belt-remnants entity
+factorio-logo-11tiles entity
+factorio-logo-16tiles entity
+factorio-logo-22tiles entity
+fast-inserter
+fast-inserter entity
+fast-inserter recipe
+fast-inserter-explosion entity
+fast-inserter-recycling recipe
+fast-inserter-remnants entity
+fast-loader
+fast-loader entity
+fast-loader recipe
+fast-loader-recycling recipe
+fast-splitter
+fast-splitter entity
+fast-splitter recipe
+fast-splitter-explosion entity
+fast-splitter-recycling recipe
+fast-splitter-remnants entity
+fast-transport-belt
+fast-transport-belt entity
+fast-transport-belt recipe
+fast-transport-belt-explosion entity
+fast-transport-belt-recycling recipe
+fast-transport-belt-remnants entity
+fast-underground-belt
+fast-underground-belt entity
+fast-underground-belt recipe
+fast-underground-belt-explosion entity
+fast-underground-belt-recycling recipe
+fast-underground-belt-remnants entity
+fire-flame entity
+fire-flame-on-tree entity
+firearm-magazine
+firearm-magazine recipe
+firearm-magazine-recycling recipe
+fish entity
+fish-breeding recipe
+fission-reactor-equipment
+fission-reactor-equipment recipe
+fission-reactor-equipment-recycling recipe
+flamethrower
+flamethrower recipe
+flamethrower-ammo
+flamethrower-ammo recipe
+flamethrower-ammo-recycling recipe
+flamethrower-fire-stream entity
+flamethrower-recycling recipe
+flamethrower-turret
+flamethrower-turret recipe
+flamethrower-turret-explosion entity
+flamethrower-turret-recycling recipe
+flamethrower-turret-remnants entity
+fluid-unknown fluid
+fluid-wagon
+fluid-wagon entity
+fluid-wagon recipe
+fluid-wagon-explosion entity
+fluid-wagon-recycling recipe
+fluid-wagon-remnants entity
+fluorine fluid
+fluorine-vent entity
+fluoroketone recipe
+fluoroketone-cold fluid
+fluoroketone-cold-barrel
+fluoroketone-cold-barrel recipe
+fluoroketone-cold-barrel-recycling recipe
+fluoroketone-cooling recipe
+fluoroketone-hot fluid
+fluoroketone-hot-barrel
+fluoroketone-hot-barrel recipe
+fluoroketone-hot-barrel-recycling recipe
+flying-robot-damaged-explosion entity
+flying-robot-frame
+flying-robot-frame recipe
+flying-robot-frame-recycling recipe
+foundation
+foundation recipe
+foundation-recycling recipe
+foundry
+foundry entity
+foundry recipe
+foundry-explosion entity
+foundry-recycling recipe
+foundry-remnants entity
+fulgora space-location
+fulgoran-ruin-attractor entity
+fulgoran-ruin-big entity
+fulgoran-ruin-colossal entity
+fulgoran-ruin-huge entity
+fulgoran-ruin-medium entity
+fulgoran-ruin-small entity
+fulgoran-ruin-stonehenge entity
+fulgoran-ruin-vault entity
+fulgurite entity
+fulgurite-small entity
+funneltrunk entity
+fusion-generator
+fusion-generator entity
+fusion-generator recipe
+fusion-generator-explosion entity
+fusion-generator-recycling recipe
+fusion-generator-remnants entity
+fusion-plasma fluid
+fusion-power-cell
+fusion-power-cell recipe
+fusion-power-cell-recycling recipe
+fusion-reactor
+fusion-reactor entity
+fusion-reactor recipe
+fusion-reactor-equipment
+fusion-reactor-equipment recipe
+fusion-reactor-equipment-recycling recipe
+fusion-reactor-explosion entity
+fusion-reactor-recycling recipe
+fusion-reactor-remnants entity
+gate
+gate entity
+gate recipe
+gate-explosion entity
+gate-recycling recipe
+gate-remnants entity
+gleba space-location
+gleba-blood-explosion-big entity
+gleba-blood-explosion-huge entity
+gleba-blood-explosion-small entity
+gleba-blood-fountain entity
+gleba-blood-fountain-big entity
+gleba-blood-fountain-hit-spray entity
+gleba-enemy-damaged-explosion entity
+gleba-spawner entity
+gleba-spawner-corpse entity
+gleba-spawner-corpse-small entity
+gleba-spawner-small entity
+green-wire
+green-wire-recycling recipe
+grenade
+grenade recipe
+grenade-explosion entity
+grenade-recycling recipe
+ground-explosion entity
+gun-turret
+gun-turret entity
+gun-turret recipe
+gun-turret-explosion entity
+gun-turret-recycling recipe
+gun-turret-remnants entity
+hairyclubnub entity
+half-diagonal-rail entity
+half-diagonal-rail-remnants entity
+handheld-flamethrower-fire-stream entity
+hazard-concrete
+hazard-concrete recipe
+hazard-concrete-recycling recipe
+heat-exchanger
+heat-exchanger entity
+heat-exchanger recipe
+heat-exchanger-explosion entity
+heat-exchanger-recycling recipe
+heat-exchanger-remnants entity
+heat-interface
+heat-interface entity
+heat-interface recipe
+heat-interface-recycling recipe
+heat-pipe
+heat-pipe entity
+heat-pipe recipe
+heat-pipe-explosion entity
+heat-pipe-recycling recipe
+heat-pipe-remnants entity
+heating-tower
+heating-tower entity
+heating-tower recipe
+heating-tower-explosion entity
+heating-tower-recycling recipe
+heating-tower-remnants entity
+heavy-armor
+heavy-armor recipe
+heavy-armor-recycling recipe
+heavy-oil fluid
+heavy-oil-barrel
+heavy-oil-barrel recipe
+heavy-oil-barrel-recycling recipe
+heavy-oil-cracking recipe
+hidden-electric-energy-interface entity
+holmium-ore
+holmium-ore
+holmium-ore-recycling recipe
+holmium-plate
+holmium-plate recipe
+holmium-plate-recycling recipe
+holmium-solution fluid
+holmium-solution recipe
+huge-carbonic-asteroid entity
+huge-metallic-asteroid entity
+huge-oxide-asteroid entity
+huge-promethium-asteroid entity
+huge-rock entity
+huge-scorchmark entity
+huge-scorchmark-tintable entity
+huge-volcanic-rock entity
+ice
+ice-melting recipe
+ice-platform
+ice-platform recipe
+ice-platform-recycling recipe
+ice-recycling recipe
+infinity-chest
+infinity-chest entity
+infinity-chest recipe
+infinity-chest-recycling recipe
+infinity-pipe
+infinity-pipe entity
+infinity-pipe recipe
+infinity-pipe-recycling recipe
+inserter
+inserter entity
+inserter recipe
+inserter-explosion entity
+inserter-recycling recipe
+inserter-remnants entity
+iron-bacteria
+iron-bacteria recipe
+iron-bacteria-cultivation recipe
+iron-bacteria-recycling recipe
+iron-chest
+iron-chest entity
+iron-chest recipe
+iron-chest-explosion entity
+iron-chest-recycling recipe
+iron-chest-remnants entity
+iron-gear-wheel
+iron-gear-wheel recipe
+iron-gear-wheel-recycling recipe
+iron-ore
+iron-ore entity
+iron-ore-recycling recipe
+iron-plate
+iron-plate recipe
+iron-plate-recycling recipe
+iron-stick
+iron-stick recipe
+iron-stick-recycling recipe
+iron-stromatolite entity
+item-on-ground entity
+item-request-proxy entity
+item-unknown
+item-unknown
+item-unknown-recycling recipe
+jelly
+jelly-recycling recipe
+jellynut
+jellynut-processing recipe
+jellynut-recycling recipe
+jellynut-seed
+jellynut-seed-recycling recipe
+jellystem entity
+kovarex-enrichment-process recipe
+lab
+lab entity
+lab recipe
+lab-explosion entity
+lab-recycling recipe
+lab-remnants entity
+lamp-explosion entity
+lamp-remnants entity
+land-mine
+land-mine entity
+land-mine recipe
+land-mine-explosion entity
+land-mine-recycling recipe
+land-mine-remnants entity
+landfill
+landfill recipe
+landfill-recycling recipe
+lane-splitter
+lane-splitter entity
+lane-splitter-recycling recipe
+laser-bubble entity
+laser-turret
+laser-turret entity
+laser-turret recipe
+laser-turret-explosion entity
+laser-turret-recycling recipe
+laser-turret-remnants entity
+lava fluid
+left-arrow virtual
+legacy-curved-rail entity
+legacy-curved-rail-remnants entity
+legacy-straight-rail entity
+legacy-straight-rail-remnants entity
+legendary quality
+lickmaw entity
+light-armor
+light-armor recipe
+light-armor-recycling recipe
+light-oil fluid
+light-oil-barrel
+light-oil-barrel recipe
+light-oil-barrel-recycling recipe
+light-oil-cracking recipe
+lightning entity
+lightning-collector
+lightning-collector entity
+lightning-collector recipe
+lightning-collector-recycling recipe
+lightning-collector-remnants entity
+lightning-rod
+lightning-rod entity
+lightning-rod recipe
+lightning-rod-recycling recipe
+lightning-rod-remnants entity
+linked-belt
+linked-belt entity
+linked-belt-recycling recipe
+linked-chest
+linked-chest entity
+linked-chest-recycling recipe
+lithium
+lithium recipe
+lithium-brine entity
+lithium-brine fluid
+lithium-iceberg-big entity
+lithium-iceberg-huge entity
+lithium-plate
+lithium-plate recipe
+lithium-plate-recycling recipe
+lithium-recycling recipe
+loader
+loader entity
+loader recipe
+loader-1x1 entity
+loader-recycling recipe
+locomotive
+locomotive entity
+locomotive recipe
+locomotive-explosion entity
+locomotive-recycling recipe
+locomotive-remnants entity
+logistic-robot
+logistic-robot recipe
+logistic-robot-explosion entity
+logistic-robot-recycling recipe
+logistic-robot-remnants entity
+logistic-science-pack recipe
+logistic-science-pack-recycling recipe
+long-handed-inserter
+long-handed-inserter entity
+long-handed-inserter recipe
+long-handed-inserter-explosion entity
+long-handed-inserter-recycling recipe
+long-handed-inserter-remnants entity
+low-density-structure
+low-density-structure recipe
+low-density-structure-recycling recipe
+lubricant fluid
+lubricant recipe
+lubricant-barrel
+lubricant-barrel recipe
+lubricant-barrel-recycling recipe
+market entity
+massive-explosion entity
+mech-armor
+mech-armor recipe
+mech-armor-recycling recipe
+medium-acid-splash-fire-stomper entity
+medium-acid-stream-stomper entity
+medium-biter entity
+medium-biter-corpse entity
+medium-biter-die entity
+medium-carbonic-asteroid entity
+medium-demolisher entity
+medium-demolisher-ash-cloud entity
+medium-demolisher-ash-cloud-trail entity
+medium-demolisher-corpse entity
+medium-demolisher-expanding-ash-cloud-1 entity
+medium-demolisher-expanding-ash-cloud-10 entity
+medium-demolisher-expanding-ash-cloud-11 entity
+medium-demolisher-expanding-ash-cloud-12 entity
+medium-demolisher-expanding-ash-cloud-13 entity
+medium-demolisher-expanding-ash-cloud-14 entity
+medium-demolisher-expanding-ash-cloud-15 entity
+medium-demolisher-expanding-ash-cloud-16 entity
+medium-demolisher-expanding-ash-cloud-17 entity
+medium-demolisher-expanding-ash-cloud-18 entity
+medium-demolisher-expanding-ash-cloud-19 entity
+medium-demolisher-expanding-ash-cloud-2 entity
+medium-demolisher-expanding-ash-cloud-20 entity
+medium-demolisher-expanding-ash-cloud-21 entity
+medium-demolisher-expanding-ash-cloud-22 entity
+medium-demolisher-expanding-ash-cloud-23 entity
+medium-demolisher-expanding-ash-cloud-24 entity
+medium-demolisher-expanding-ash-cloud-25 entity
+medium-demolisher-expanding-ash-cloud-26 entity
+medium-demolisher-expanding-ash-cloud-27 entity
+medium-demolisher-expanding-ash-cloud-28 entity
+medium-demolisher-expanding-ash-cloud-29 entity
+medium-demolisher-expanding-ash-cloud-3 entity
+medium-demolisher-expanding-ash-cloud-30 entity
+medium-demolisher-expanding-ash-cloud-4 entity
+medium-demolisher-expanding-ash-cloud-5 entity
+medium-demolisher-expanding-ash-cloud-6 entity
+medium-demolisher-expanding-ash-cloud-7 entity
+medium-demolisher-expanding-ash-cloud-8 entity
+medium-demolisher-expanding-ash-cloud-9 entity
+medium-demolisher-fissure entity
+medium-demolisher-fissure-damage-explosion entity
+medium-demolisher-fissure-explosion entity
+medium-demolisher-fissure-scorchmark entity
 medium-demolisher-segment-x0_4875 entity
 medium-demolisher-segment-x0_5775 entity
 medium-demolisher-segment-x0_6525 entity
@@ -1136,154 +1090,400 @@ medium-demolisher-segment-x1_05 entity
 medium-demolisher-segment-x1_0575 entity
 medium-demolisher-segment-x1_14 entity
 medium-demolisher-tail-x0_48 entity
-small-demolisher-segment-x0_325 entity
-small-demolisher-segment-x0_385 entity
-small-demolisher-segment-x0_435 entity
-small-demolisher-segment-x0_485 entity
-small-demolisher-segment-x0_495 entity
-small-demolisher-segment-x0_54 entity
-small-demolisher-segment-x0_545 entity
-small-demolisher-segment-x0_55 entity
-small-demolisher-segment-x0_585 entity
-small-demolisher-segment-x0_6 entity
-small-demolisher-segment-x0_635 entity
-small-demolisher-segment-x0_64 entity
-small-demolisher-segment-x0_65 entity
-small-demolisher-segment-x0_665 entity
-small-demolisher-segment-x0_68 entity
-small-demolisher-segment-x0_685 entity
-small-demolisher-segment-x0_7 entity
-small-demolisher-segment-x0_705 entity
-small-demolisher-segment-x0_76 entity
-small-demolisher-tail-x0_32 entity
-big-demolisher entity
-medium-demolisher entity
-small-demolisher entity
-big-demolisher-corpse entity
-big-fulgora-rock entity
-big-rock entity
-big-sand-rock entity
-big-stomper-shell entity
-big-volcanic-rock entity
-copper-stromatolite entity
-fulgoran-ruin-big entity
-fulgoran-ruin-colossal entity
-fulgoran-ruin-huge entity
-fulgoran-ruin-medium entity
-fulgoran-ruin-small entity
-fulgoran-ruin-stonehenge entity
-fulgoran-ruin-vault entity
-fulgurite entity
-fulgurite-small entity
-huge-rock entity
-huge-volcanic-rock entity
-iron-stromatolite entity
-lithium-iceberg-big entity
-lithium-iceberg-huge entity
-medium-demolisher-corpse entity
-medium-stomper-shell entity
-small-demolisher-corpse entity
-small-stomper-shell entity
-vulcanus-chimney entity
-vulcanus-chimney-cold entity
-vulcanus-chimney-faded entity
-vulcanus-chimney-short entity
-vulcanus-chimney-truncated entity
-wube-logo-space-platform entity
-crash-site-spaceship-wreck-small-1 entity
-crash-site-spaceship-wreck-small-2 entity
-crash-site-spaceship-wreck-small-3 entity
-crash-site-spaceship-wreck-small-4 entity
-crash-site-spaceship-wreck-small-5 entity
-crash-site-spaceship-wreck-small-6 entity
-shattered-planet space-location
-solar-system-edge space-location
-space-location-unknown space-location
-big-stomper-pentapod-leg entity
-big-strafer-pentapod-leg entity
-medium-stomper-pentapod-leg entity
-medium-strafer-pentapod-leg entity
-small-stomper-pentapod-leg entity
-small-strafer-pentapod-leg entity
-spidertron-leg-1 entity
-spidertron-leg-2 entity
-spidertron-leg-3 entity
-spidertron-leg-4 entity
-spidertron-leg-5 entity
-spidertron-leg-6 entity
-spidertron-leg-7 entity
-spidertron-leg-8 entity
-big-stomper-pentapod entity
-big-strafer-pentapod entity
-dummy-spider-unit entity
-medium-stomper-pentapod entity
-medium-strafer-pentapod entity
-small-stomper-pentapod entity
-small-strafer-pentapod entity
-spidertron-remote
-straight-rail entity
-cargo-pod-container entity
-tile-ghost entity
-ashland-lichen-tree entity
-ashland-lichen-tree-flaming entity
-boompuff entity
-cuttlepop entity
-dead-dry-hairy-tree entity
-dead-grey-trunk entity
-dead-tree-desert entity
-dry-hairy-tree entity
-dry-tree entity
-funneltrunk entity
-hairyclubnub entity
-lickmaw entity
-slipstack entity
-stingfrond entity
-sunnycomb entity
-teflilly entity
-tree-01 entity
-tree-02 entity
-tree-02-red entity
-tree-03 entity
-tree-04 entity
-tree-05 entity
-tree-06 entity
-tree-06-brown entity
-tree-07 entity
-tree-08 entity
-tree-08-brown entity
-tree-08-red entity
-tree-09 entity
-tree-09-brown entity
-tree-09-red entity
-water-cane entity
-behemoth-worm-turret entity
-big-worm-turret entity
-medium-worm-turret entity
-small-worm-turret entity
-behemoth-biter entity
-behemoth-spitter entity
-big-biter entity
-big-spitter entity
-big-wriggler-pentapod entity
-big-wriggler-pentapod-premature entity
-medium-biter entity
+medium-demolisher-trail-lower entity
+medium-demolisher-trail-upper entity
+medium-electric-pole
+medium-electric-pole recipe
+medium-electric-pole-explosion entity
+medium-electric-pole-recycling recipe
+medium-electric-pole-remnants entity
+medium-explosion entity
+medium-metallic-asteroid entity
+medium-oxide-asteroid entity
+medium-promethium-asteroid entity
+medium-remnants entity
+medium-scorchmark entity
+medium-scorchmark-tintable entity
+medium-small-remnants entity
 medium-spitter entity
+medium-spitter-corpse entity
+medium-spitter-die entity
+medium-stomper-corpse entity
+medium-stomper-pentapod entity
+medium-stomper-pentapod-die entity
+medium-stomper-pentapod-leg entity
+medium-stomper-pentapod-leg-die entity
+medium-stomper-shell entity
+medium-strafer-corpse entity
+medium-strafer-pentapod entity
+medium-strafer-pentapod-die entity
+medium-strafer-pentapod-leg entity
+medium-strafer-pentapod-leg-die entity
+medium-worm-corpse entity
+medium-worm-corpse-burrowed entity
+medium-worm-die entity
+medium-worm-turret entity
+medium-wriggler-die entity
 medium-wriggler-pentapod entity
+medium-wriggler-pentapod-corpse entity
 medium-wriggler-pentapod-premature entity
-small-biter entity
-small-spitter entity
-small-wriggler-pentapod entity
-small-wriggler-pentapod-premature entity
-biter-spawner entity
-gleba-spawner entity
-gleba-spawner-small entity
-spitter-spawner entity
-upgrade-planner
-down-arrow virtual
-down-left-arrow virtual
-down-right-arrow virtual
-left-arrow virtual
+metallic-asteroid-chunk
+metallic-asteroid-chunk-recycling recipe
+metallic-asteroid-crushing recipe
+metallic-asteroid-explosion-1 entity
+metallic-asteroid-explosion-2 entity
+metallic-asteroid-explosion-3 entity
+metallic-asteroid-explosion-4 entity
+metallic-asteroid-explosion-5 entity
+metallic-asteroid-reprocessing recipe
+metallurgic-science-pack recipe
+metallurgic-science-pack-recycling recipe
+military-science-pack recipe
+military-science-pack-recycling recipe
+modular-armor
+modular-armor recipe
+modular-armor-recycling recipe
+molten-copper fluid
+molten-copper recipe
+molten-copper-from-lava recipe
+molten-iron fluid
+molten-iron recipe
+molten-iron-from-lava recipe
+nauvis space-location
+night-vision-equipment
+night-vision-equipment recipe
+night-vision-equipment-recycling recipe
+normal quality
+nuclear-fuel
+nuclear-fuel recipe
+nuclear-fuel-recycling recipe
+nuclear-fuel-reprocessing recipe
+nuclear-reactor
+nuclear-reactor entity
+nuclear-reactor recipe
+nuclear-reactor-explosion entity
+nuclear-reactor-recycling recipe
+nuclear-reactor-remnants entity
+nuclear-smouldering-smoke-source entity
+nuke-explosion entity
+nutrients
+nutrients-from-bioflux recipe
+nutrients-from-biter-egg recipe
+nutrients-from-fish recipe
+nutrients-from-spoilage recipe
+nutrients-from-yumako-mash recipe
+nutrients-recycling recipe
+offshore-pump
+offshore-pump entity
+offshore-pump recipe
+offshore-pump-explosion entity
+offshore-pump-recycling recipe
+offshore-pump-remnants entity
+oil-refinery
+oil-refinery entity
+oil-refinery recipe
+oil-refinery-explosion entity
+oil-refinery-recycling recipe
+oil-refinery-remnants entity
+overgrowth-jellynut-soil
+overgrowth-jellynut-soil recipe
+overgrowth-jellynut-soil-recycling recipe
+overgrowth-yumako-soil
+overgrowth-yumako-soil recipe
+overgrowth-yumako-soil-recycling recipe
+oxide-asteroid-chunk
+oxide-asteroid-chunk-recycling recipe
+oxide-asteroid-crushing recipe
+oxide-asteroid-explosion-1 entity
+oxide-asteroid-explosion-2 entity
+oxide-asteroid-explosion-3 entity
+oxide-asteroid-explosion-4 entity
+oxide-asteroid-explosion-5 entity
+oxide-asteroid-reprocessing recipe
+parameter-0
+parameter-0 entity
+parameter-0 fluid
+parameter-0 recipe
+parameter-0-recycling recipe
+parameter-1
+parameter-1 entity
+parameter-1 fluid
+parameter-1 recipe
+parameter-1-recycling recipe
+parameter-2
+parameter-2 entity
+parameter-2 fluid
+parameter-2 recipe
+parameter-2-recycling recipe
+parameter-3
+parameter-3 entity
+parameter-3 fluid
+parameter-3 recipe
+parameter-3-recycling recipe
+parameter-4
+parameter-4 fluid
+parameter-4 recipe
+parameter-4-recycling recipe
+parameter-5
+parameter-5 entity
+parameter-5 fluid
+parameter-5 recipe
+parameter-5-recycling recipe
+parameter-6
+parameter-6 entity
+parameter-6 fluid
+parameter-6 recipe
+parameter-6-recycling recipe
+parameter-7
+parameter-7 entity
+parameter-7 fluid
+parameter-7 recipe
+parameter-7-recycling recipe
+parameter-8
+parameter-8 entity
+parameter-8 fluid
+parameter-8 recipe
+parameter-8-recycling recipe
+parameter-9
+parameter-9 entity
+parameter-9 fluid
+parameter-9 recipe
+parameter-9-recycling recipe
+passive-provider-chest
+passive-provider-chest entity
+passive-provider-chest recipe
+passive-provider-chest-explosion entity
+passive-provider-chest-recycling recipe
+passive-provider-chest-remnants entity
+pentapod-egg
+pentapod-egg recipe
+pentapod-egg-recycling recipe
+personal-laser-defense-equipment
+personal-laser-defense-equipment recipe
+personal-laser-defense-equipment-recycling recipe
+personal-roboport-equipment
+personal-roboport-equipment recipe
+personal-roboport-equipment-recycling recipe
+personal-roboport-mk2-equipment
+personal-roboport-mk2-equipment recipe
+personal-roboport-mk2-equipment-recycling recipe
+petroleum-gas fluid
+petroleum-gas-barrel
+petroleum-gas-barrel recipe
+petroleum-gas-barrel-recycling recipe
+piercing-rounds-magazine
+piercing-rounds-magazine recipe
+piercing-rounds-magazine-recycling recipe
+piercing-shotgun-shell
+piercing-shotgun-shell recipe
+piercing-shotgun-shell-recycling recipe
+pipe
+pipe entity
+pipe recipe
+pipe-explosion entity
+pipe-recycling recipe
+pipe-remnants entity
+pipe-to-ground
+pipe-to-ground entity
+pipe-to-ground recipe
+pipe-to-ground-explosion entity
+pipe-to-ground-recycling recipe
+pipe-to-ground-remnants entity
+pistol
+pistol recipe
+pistol-recycling recipe
+plastic-bar
+plastic-bar recipe
+plastic-bar-recycling recipe
+poison-capsule
+poison-capsule recipe
+poison-capsule-recycling recipe
+poison-cloud entity
+poison-cloud-visual-dummy entity
+power-armor
+power-armor recipe
+power-armor-mk2
+power-armor-mk2 recipe
+power-armor-mk2-recycling recipe
+power-armor-recycling recipe
+power-switch
+power-switch entity
+power-switch recipe
+power-switch-explosion entity
+power-switch-recycling recipe
+power-switch-remnants entity
+processing-unit
+processing-unit recipe
+processing-unit-recycling recipe
+production-science-pack recipe
+production-science-pack-recycling recipe
+productivity-module
+productivity-module recipe
+productivity-module-2
+productivity-module-2 recipe
+productivity-module-2-recycling recipe
+productivity-module-3
+productivity-module-3 recipe
+productivity-module-3-recycling recipe
+productivity-module-recycling recipe
+programmable-speaker
+programmable-speaker entity
+programmable-speaker recipe
+programmable-speaker-explosion entity
+programmable-speaker-recycling recipe
+programmable-speaker-remnants entity
+promethium-asteroid-chunk
+promethium-asteroid-chunk-recycling recipe
+promethium-asteroid-explosion-1 entity
+promethium-asteroid-explosion-2 entity
+promethium-asteroid-explosion-3 entity
+promethium-asteroid-explosion-4 entity
+promethium-asteroid-explosion-5 entity
+promethium-science-pack recipe
+promethium-science-pack-recycling recipe
+pump
+pump entity
+pump recipe
+pump-explosion entity
+pump-recycling recipe
+pump-remnants entity
+pumpjack
+pumpjack entity
+pumpjack recipe
+pumpjack-explosion entity
+pumpjack-recycling recipe
+pumpjack-remnants entity
+quality-module
+quality-module recipe
+quality-module-2
+quality-module-2 recipe
+quality-module-2-recycling recipe
+quality-module-3
+quality-module-3 recipe
+quality-module-3-recycling recipe
+quality-module-recycling recipe
+quality-unknown quality
+quantum-processor
+quantum-processor recipe
+quantum-processor-recycling recipe
+radar
+radar entity
+radar recipe
+radar-explosion entity
+radar-recycling recipe
+radar-remnants entity
+rail
+rail recipe
+rail-chain-signal
+rail-chain-signal entity
+rail-chain-signal recipe
+rail-chain-signal-explosion entity
+rail-chain-signal-recycling recipe
+rail-chain-signal-remnants entity
+rail-ending-remnants entity
+rail-explosion entity
+rail-ramp
+rail-ramp entity
+rail-ramp recipe
+rail-ramp-explosion-higher entity
+rail-ramp-explosion-lower entity
+rail-ramp-explosion-middle entity
+rail-ramp-recycling recipe
+rail-ramp-remnants entity
+rail-recycling recipe
+rail-signal
+rail-signal entity
+rail-signal recipe
+rail-signal-explosion entity
+rail-signal-recycling recipe
+rail-signal-remnants entity
+rail-support
+rail-support entity
+rail-support recipe
+rail-support-explosion entity
+rail-support-recycling recipe
+rail-support-remnants entity
+railgun
+railgun recipe
+railgun-ammo
+railgun-ammo recipe
+railgun-ammo-recycling recipe
+railgun-beam entity
+railgun-recycling recipe
+railgun-turret
+railgun-turret entity
+railgun-turret recipe
+railgun-turret-recycling recipe
+railgun-turret-remnants entity
+rare quality
+raw-fish
+raw-fish-recycling recipe
+recipe-unknown recipe
+recycler
+recycler entity
+recycler recipe
+recycler-recycling recipe
+red-chest entity
+red-wire
+red-wire-recycling recipe
+refined-concrete
+refined-concrete recipe
+refined-concrete-recycling recipe
+refined-hazard-concrete
+refined-hazard-concrete recipe
+refined-hazard-concrete-recycling recipe
+repair-pack recipe
+repair-pack-recycling recipe
+requester-chest
+requester-chest entity
+requester-chest recipe
+requester-chest-explosion entity
+requester-chest-recycling recipe
+requester-chest-remnants entity
 right-arrow virtual
+roboport
+roboport entity
+roboport recipe
+roboport-explosion entity
+roboport-recycling recipe
+roboport-remnants entity
+rock-damaged-explosion entity
+rocket
+rocket recipe
+rocket-fuel
+rocket-fuel recipe
+rocket-fuel-from-jelly recipe
+rocket-fuel-recycling recipe
+rocket-launcher
+rocket-launcher recipe
+rocket-launcher-recycling recipe
+rocket-part
+rocket-part recipe
+rocket-part-recycling recipe
+rocket-recycling recipe
+rocket-silo
+rocket-silo entity
+rocket-silo recipe
+rocket-silo-explosion entity
+rocket-silo-recycling recipe
+rocket-silo-remnants entity
+rocket-turret
+rocket-turret entity
+rocket-turret recipe
+rocket-turret-recycling recipe
+rocket-turret-remnants entity
+science
+science-recycling recipe
+scrap
+scrap entity
+scrap-recycling recipe
+selection-tool-recycling recipe
+selector-combinator
+selector-combinator entity
+selector-combinator recipe
+selector-combinator-explosion entity
+selector-combinator-recycling recipe
+selector-combinator-remnants entity
 shape-circle virtual
 shape-corner virtual
 shape-cross virtual
@@ -1293,6 +1493,13 @@ shape-diagonal-cross virtual
 shape-horizontal virtual
 shape-t virtual
 shape-vertical virtual
+shattered-planet space-location
+shotgun
+shotgun recipe
+shotgun-recycling recipe
+shotgun-shell
+shotgun-shell recipe
+shotgun-shell-recycling recipe
 signal-0 virtual
 signal-1 virtual
 signal-2 virtual
@@ -1355,478 +1562,26 @@ signal-stack-size virtual
 signal-unknown virtual
 signal-white virtual
 signal-yellow virtual
-up-arrow virtual
-up-left-arrow virtual
-up-right-arrow virtual
-accumulator-explosion entity
-active-provider-chest-explosion entity
-agricultural-tower-explosion entity
-aquilo-tiles-inner-explosion entity
-aquilo-tiles-outer-explosion entity
-arithmetic-combinator-explosion entity
-artillery-cannon-muzzle-flash entity
-artillery-turret-explosion entity
-artillery-wagon-explosion entity
-assembling-machine-1-explosion entity
-assembling-machine-2-explosion entity
-assembling-machine-3-explosion entity
-atomic-fire-smoke entity
-atomic-nuke-shockwave entity
-beacon-explosion entity
-behemoth-biter-die entity
-behemoth-spitter-die entity
-behemoth-worm-die entity
-big-artillery-explosion entity
-big-biter-die entity
-big-demolisher-fissure entity
-big-demolisher-fissure-damage-explosion entity
-big-demolisher-fissure-explosion entity
-big-electric-pole-explosion entity
-big-explosion entity
-big-mining-drill-explosion entity
-big-spitter-die entity
-big-stomper-pentapod-die entity
-big-stomper-pentapod-leg-die entity
-big-strafer-pentapod-die entity
-big-strafer-pentapod-leg-die entity
-big-worm-die entity
-big-wriggler-die entity
-biochamber-explosion entity
-biolab-explosion entity
-biter-spawner-die entity
-blood-explosion-big entity
-blood-explosion-huge entity
-blood-explosion-small entity
-boiler-explosion entity
-boompuff-explosion entity
-buffer-chest-explosion entity
-bulk-inserter-explosion entity
-burner-inserter-explosion entity
-burner-mining-drill-explosion entity
-captive-spawner-explosion-1 entity
-captive-spawner-explosion-2 entity
-capture-robot-explosion entity
-car-explosion entity
-carbonic-asteroid-explosion-1 entity
-carbonic-asteroid-explosion-2 entity
-carbonic-asteroid-explosion-3 entity
-carbonic-asteroid-explosion-4 entity
-carbonic-asteroid-explosion-5 entity
-cargo-pod-container-explosion entity
-cargo-wagon-explosion entity
-centrifuge-explosion entity
-chemical-plant-explosion entity
-cluster-nuke-explosion entity
-constant-combinator-explosion entity
-construction-robot-explosion entity
-cryogenic-plant-explosion entity
-decider-combinator-explosion entity
-defender-robot-explosion entity
-destroyer-robot-explosion entity
-distractor-robot-explosion entity
-electric-furnace-explosion entity
-electric-mining-drill-explosion entity
-electromagnetic-plant-explosion entity
-elevated-rail-explosion entity
-enemy-damaged-explosion entity
-explosion entity
-explosion-gunshot entity
-explosion-gunshot-small entity
-explosion-hit entity
-express-splitter-explosion entity
-express-transport-belt-explosion entity
-express-underground-belt-explosion entity
-fast-inserter-explosion entity
-fast-splitter-explosion entity
-fast-transport-belt-explosion entity
-fast-underground-belt-explosion entity
-flamethrower-turret-explosion entity
-fluid-wagon-explosion entity
-flying-robot-damaged-explosion entity
-foundry-explosion entity
-fusion-generator-explosion entity
-fusion-reactor-explosion entity
-gate-explosion entity
-gleba-blood-explosion-big entity
-gleba-blood-explosion-huge entity
-gleba-blood-explosion-small entity
-gleba-enemy-damaged-explosion entity
-grenade-explosion entity
-ground-explosion entity
-gun-turret-explosion entity
-heat-exchanger-explosion entity
-heat-pipe-explosion entity
-heating-tower-explosion entity
-inserter-explosion entity
-iron-chest-explosion entity
-lab-explosion entity
-lamp-explosion entity
-land-mine-explosion entity
-laser-bubble entity
-laser-turret-explosion entity
-locomotive-explosion entity
-logistic-robot-explosion entity
-long-handed-inserter-explosion entity
-massive-explosion entity
-medium-biter-die entity
-medium-demolisher-fissure entity
-medium-demolisher-fissure-damage-explosion entity
-medium-demolisher-fissure-explosion entity
-medium-electric-pole-explosion entity
-medium-explosion entity
-medium-spitter-die entity
-medium-stomper-pentapod-die entity
-medium-stomper-pentapod-leg-die entity
-medium-strafer-pentapod-die entity
-medium-strafer-pentapod-leg-die entity
-medium-worm-die entity
-medium-wriggler-die entity
-metallic-asteroid-explosion-1 entity
-metallic-asteroid-explosion-2 entity
-metallic-asteroid-explosion-3 entity
-metallic-asteroid-explosion-4 entity
-metallic-asteroid-explosion-5 entity
-nuclear-reactor-explosion entity
-nuke-explosion entity
-offshore-pump-explosion entity
-oil-refinery-explosion entity
-oxide-asteroid-explosion-1 entity
-oxide-asteroid-explosion-2 entity
-oxide-asteroid-explosion-3 entity
-oxide-asteroid-explosion-4 entity
-oxide-asteroid-explosion-5 entity
-passive-provider-chest-explosion entity
-pipe-explosion entity
-pipe-to-ground-explosion entity
-power-switch-explosion entity
-programmable-speaker-explosion entity
-promethium-asteroid-explosion-1 entity
-promethium-asteroid-explosion-2 entity
-promethium-asteroid-explosion-3 entity
-promethium-asteroid-explosion-4 entity
-promethium-asteroid-explosion-5 entity
-pump-explosion entity
-pumpjack-explosion entity
-radar-explosion entity
-rail-chain-signal-explosion entity
-rail-explosion entity
-rail-ramp-explosion-higher entity
-rail-ramp-explosion-lower entity
-rail-ramp-explosion-middle entity
-rail-signal-explosion entity
-rail-support-explosion entity
-railgun-beam entity
-requester-chest-explosion entity
-roboport-explosion entity
-rock-damaged-explosion entity
-rocket-silo-explosion entity
-selector-combinator-explosion entity
+simple-coal-liquefaction recipe
+simple-entity-with-force
+simple-entity-with-force-recycling recipe
+simple-entity-with-owner
+simple-entity-with-owner-recycling recipe
+slipstack entity
+slowdown-capsule
+slowdown-capsule recipe
 slowdown-capsule-explosion entity
-small-biter-die entity
-small-demolisher-fissure entity
-small-demolisher-fissure-damage-explosion entity
-small-demolisher-fissure-explosion entity
-small-electric-pole-explosion entity
-small-spitter-die entity
-small-stomper-pentapod-die entity
-small-stomper-pentapod-leg-die entity
-small-strafer-pentapod-die entity
-small-strafer-pentapod-leg-die entity
-small-worm-die entity
-small-wriggler-die entity
-solar-panel-explosion entity
-space-platform-foundation-explosion entity
-spark-explosion entity
-spark-explosion-higher entity
-spidertron-explosion entity
-spitter-spawner-die entity
-splitter-explosion entity
-stack-inserter-explosion entity
-steam-engine-explosion entity
-steam-turbine-explosion entity
-steel-chest-explosion entity
-steel-furnace-explosion entity
-stone-furnace-explosion entity
-storage-chest-explosion entity
-storage-tank-explosion entity
-substation-explosion entity
-tank-explosion entity
-train-stop-explosion entity
-transport-belt-explosion entity
-turbo-splitter-explosion entity
-turbo-transport-belt-explosion entity
-turbo-underground-belt-explosion entity
-underground-belt-explosion entity
-uranium-cannon-explosion entity
-uranium-cannon-shell-explosion entity
-vulcanus-cliff-collapse entity
-wall-damaged-explosion entity
-wall-explosion entity
-water-splash entity
-wooden-chest-explosion entity
-blood-fountain entity
-blood-fountain-big entity
-blood-fountain-hit-spray entity
-gleba-blood-fountain entity
-gleba-blood-fountain-big entity
-gleba-blood-fountain-hit-spray entity
-nuclear-smouldering-smoke-source entity
-blue-chest entity
-crash-site-chest-1 entity
-crash-site-chest-2 entity
-crash-site-spaceship entity
-crash-site-spaceship-wreck-big-1 entity
-crash-site-spaceship-wreck-big-2 entity
-crash-site-spaceship-wreck-medium-1 entity
-crash-site-spaceship-wreck-medium-2 entity
-crash-site-spaceship-wreck-medium-3 entity
-factorio-logo-11tiles entity
-factorio-logo-16tiles entity
-factorio-logo-22tiles entity
-red-chest entity
-1x2-remnants entity
-accumulator-remnants entity
-active-provider-chest-remnants entity
-agricultural-tower-remnants entity
-arithmetic-combinator-remnants entity
-artillery-turret-remnants entity
-artillery-wagon-remnants entity
-ashland-lichen-tree-stump entity
-assembling-machine-1-remnants entity
-assembling-machine-2-remnants entity
-assembling-machine-3-remnants entity
-beacon-remnants entity
-behemoth-biter-corpse entity
-behemoth-spitter-corpse entity
-behemoth-worm-corpse entity
-behemoth-worm-corpse-burrowed entity
-big-biter-corpse entity
-big-demolisher-fissure-scorchmark entity
-big-demolisher-trail-lower entity
-big-demolisher-trail-upper entity
-big-electric-pole-remnants entity
-big-mining-drill-remnants entity
-big-remnants entity
-big-scorchmark entity
-big-scorchmark-tintable entity
-big-spitter-corpse entity
-big-stomper-corpse entity
-big-strafer-corpse entity
-big-worm-corpse entity
-big-worm-corpse-burrowed entity
-big-wriggler-pentapod-corpse entity
-biochamber-remnants entity
-biolab-remnants entity
-biter-spawner-corpse entity
-boiler-remnants entity
-buffer-chest-remnants entity
-bulk-inserter-remnants entity
-burner-inserter-remnants entity
-burner-mining-drill-remnants entity
-car-remnants entity
-cargo-bay-remnants entity
-cargo-landing-pad-remnants entity
-cargo-pod-container-remnants entity
-cargo-wagon-remnants entity
-centrifuge-remnants entity
-chemical-plant-remnants entity
-constant-combinator-remnants entity
-construction-robot-remnants entity
-cryogenic-plant-remnants entity
-decider-combinator-remnants entity
-defender-remnants entity
-destroyer-remnants entity
-distractor-remnants entity
-electric-furnace-remnants entity
-electric-mining-drill-remnants entity
-electromagnetic-plant-remnants entity
-elevated-rail-remnants entity
-express-splitter-remnants entity
-express-transport-belt-remnants entity
-express-underground-belt-remnants entity
-fast-inserter-remnants entity
-fast-splitter-remnants entity
-fast-transport-belt-remnants entity
-fast-underground-belt-remnants entity
-flamethrower-turret-remnants entity
-fluid-wagon-remnants entity
-foundry-remnants entity
-fusion-generator-remnants entity
-fusion-reactor-remnants entity
-gate-remnants entity
-gleba-spawner-corpse entity
-gleba-spawner-corpse-small entity
-gun-turret-remnants entity
-heat-exchanger-remnants entity
-heat-pipe-remnants entity
-heating-tower-remnants entity
-huge-scorchmark entity
-huge-scorchmark-tintable entity
-inserter-remnants entity
-iron-chest-remnants entity
-lab-remnants entity
-lamp-remnants entity
-land-mine-remnants entity
-laser-turret-remnants entity
-lightning-collector-remnants entity
-lightning-rod-remnants entity
-locomotive-remnants entity
-logistic-robot-remnants entity
-long-handed-inserter-remnants entity
-medium-biter-corpse entity
-medium-demolisher-fissure-scorchmark entity
-medium-demolisher-trail-lower entity
-medium-demolisher-trail-upper entity
-medium-electric-pole-remnants entity
-medium-remnants entity
-medium-scorchmark entity
-medium-scorchmark-tintable entity
-medium-small-remnants entity
-medium-spitter-corpse entity
-medium-stomper-corpse entity
-medium-strafer-corpse entity
-medium-worm-corpse entity
-medium-worm-corpse-burrowed entity
-medium-wriggler-pentapod-corpse entity
-nuclear-reactor-remnants entity
-offshore-pump-remnants entity
-oil-refinery-remnants entity
-passive-provider-chest-remnants entity
-pipe-remnants entity
-pipe-to-ground-remnants entity
-power-switch-remnants entity
-programmable-speaker-remnants entity
-pump-remnants entity
-pumpjack-remnants entity
-radar-remnants entity
-rail-chain-signal-remnants entity
-rail-ending-remnants entity
-rail-ramp-remnants entity
-rail-signal-remnants entity
-rail-support-remnants entity
-railgun-turret-remnants entity
-requester-chest-remnants entity
-roboport-remnants entity
-rocket-silo-remnants entity
-rocket-turret-remnants entity
-selector-combinator-remnants entity
+slowdown-capsule-recycling recipe
+small-acid-splash-fire-stomper entity
+small-acid-stream-stomper entity
+small-biter entity
 small-biter-corpse entity
-small-demolisher-fissure-scorchmark entity
-small-demolisher-trail-lower entity
-small-demolisher-trail-upper entity
-small-electric-pole-remnants entity
-small-remnants entity
-small-scorchmark entity
-small-scorchmark-tintable entity
-small-spitter-corpse entity
-small-stomper-corpse entity
-small-strafer-corpse entity
-small-worm-corpse entity
-small-worm-corpse-burrowed entity
-small-wriggler-pentapod-corpse entity
-solar-panel-remnants entity
-spidertron-remnants entity
-spitter-spawner-corpse entity
-splitter-remnants entity
-stack-inserter-remnants entity
-steam-engine-remnants entity
-steam-turbine-remnants entity
-steel-chest-remnants entity
-steel-furnace-remnants entity
-stone-furnace-remnants entity
-storage-chest-remnants entity
-storage-tank-remnants entity
-substation-remnants entity
-tank-remnants entity
-tesla-turret-remnants entity
-train-stop-remnants entity
-transport-belt-remnants entity
-tree-01-stump entity
-tree-02-stump entity
-tree-03-stump entity
-tree-04-stump entity
-tree-05-stump entity
-tree-06-stump entity
-tree-07-stump entity
-tree-08-stump entity
-tree-09-stump entity
-turbo-splitter-remnants entity
-turbo-transport-belt-remnants entity
-turbo-underground-belt-remnants entity
-underground-belt-remnants entity
-wall-remnants entity
-wooden-chest-remnants entity
-big-demolisher-ash-cloud entity
-big-demolisher-ash-cloud-trail entity
-big-demolisher-expanding-ash-cloud-1 entity
-big-demolisher-expanding-ash-cloud-10 entity
-big-demolisher-expanding-ash-cloud-11 entity
-big-demolisher-expanding-ash-cloud-12 entity
-big-demolisher-expanding-ash-cloud-13 entity
-big-demolisher-expanding-ash-cloud-14 entity
-big-demolisher-expanding-ash-cloud-15 entity
-big-demolisher-expanding-ash-cloud-16 entity
-big-demolisher-expanding-ash-cloud-17 entity
-big-demolisher-expanding-ash-cloud-18 entity
-big-demolisher-expanding-ash-cloud-19 entity
-big-demolisher-expanding-ash-cloud-2 entity
-big-demolisher-expanding-ash-cloud-20 entity
-big-demolisher-expanding-ash-cloud-21 entity
-big-demolisher-expanding-ash-cloud-22 entity
-big-demolisher-expanding-ash-cloud-23 entity
-big-demolisher-expanding-ash-cloud-24 entity
-big-demolisher-expanding-ash-cloud-25 entity
-big-demolisher-expanding-ash-cloud-26 entity
-big-demolisher-expanding-ash-cloud-27 entity
-big-demolisher-expanding-ash-cloud-28 entity
-big-demolisher-expanding-ash-cloud-29 entity
-big-demolisher-expanding-ash-cloud-3 entity
-big-demolisher-expanding-ash-cloud-30 entity
-big-demolisher-expanding-ash-cloud-4 entity
-big-demolisher-expanding-ash-cloud-5 entity
-big-demolisher-expanding-ash-cloud-6 entity
-big-demolisher-expanding-ash-cloud-7 entity
-big-demolisher-expanding-ash-cloud-8 entity
-big-demolisher-expanding-ash-cloud-9 entity
-crash-site-explosion-smoke entity
-crash-site-fire-smoke entity
-demolisher-ash-cloud-visual-dummy entity
-medium-demolisher-ash-cloud entity
-medium-demolisher-ash-cloud-trail entity
-medium-demolisher-expanding-ash-cloud-1 entity
-medium-demolisher-expanding-ash-cloud-10 entity
-medium-demolisher-expanding-ash-cloud-11 entity
-medium-demolisher-expanding-ash-cloud-12 entity
-medium-demolisher-expanding-ash-cloud-13 entity
-medium-demolisher-expanding-ash-cloud-14 entity
-medium-demolisher-expanding-ash-cloud-15 entity
-medium-demolisher-expanding-ash-cloud-16 entity
-medium-demolisher-expanding-ash-cloud-17 entity
-medium-demolisher-expanding-ash-cloud-18 entity
-medium-demolisher-expanding-ash-cloud-19 entity
-medium-demolisher-expanding-ash-cloud-2 entity
-medium-demolisher-expanding-ash-cloud-20 entity
-medium-demolisher-expanding-ash-cloud-21 entity
-medium-demolisher-expanding-ash-cloud-22 entity
-medium-demolisher-expanding-ash-cloud-23 entity
-medium-demolisher-expanding-ash-cloud-24 entity
-medium-demolisher-expanding-ash-cloud-25 entity
-medium-demolisher-expanding-ash-cloud-26 entity
-medium-demolisher-expanding-ash-cloud-27 entity
-medium-demolisher-expanding-ash-cloud-28 entity
-medium-demolisher-expanding-ash-cloud-29 entity
-medium-demolisher-expanding-ash-cloud-3 entity
-medium-demolisher-expanding-ash-cloud-30 entity
-medium-demolisher-expanding-ash-cloud-4 entity
-medium-demolisher-expanding-ash-cloud-5 entity
-medium-demolisher-expanding-ash-cloud-6 entity
-medium-demolisher-expanding-ash-cloud-7 entity
-medium-demolisher-expanding-ash-cloud-8 entity
-medium-demolisher-expanding-ash-cloud-9 entity
-poison-cloud entity
-poison-cloud-visual-dummy entity
+small-biter-die entity
+small-carbonic-asteroid entity
+small-demolisher entity
 small-demolisher-ash-cloud entity
 small-demolisher-ash-cloud-trail entity
+small-demolisher-corpse entity
 small-demolisher-expanding-ash-cloud-1 entity
 small-demolisher-expanding-ash-cloud-10 entity
 small-demolisher-expanding-ash-cloud-11 entity
@@ -1857,20 +1612,408 @@ small-demolisher-expanding-ash-cloud-6 entity
 small-demolisher-expanding-ash-cloud-7 entity
 small-demolisher-expanding-ash-cloud-8 entity
 small-demolisher-expanding-ash-cloud-9 entity
-market entity
-hidden-electric-energy-interface entity
-loader-1x1 entity
-acid-splash-fire-spitter-behemoth entity
-acid-splash-fire-spitter-big entity
-acid-splash-fire-spitter-medium entity
-acid-splash-fire-spitter-small entity
-acid-splash-fire-worm-behemoth entity
-acid-splash-fire-worm-big entity
-acid-splash-fire-worm-medium entity
-acid-splash-fire-worm-small entity
-big-acid-splash-fire-stomper entity
-crash-site-fire-flame entity
-fire-flame entity
-fire-flame-on-tree entity
-medium-acid-splash-fire-stomper entity
-small-acid-splash-fire-stomper entity
+small-demolisher-fissure entity
+small-demolisher-fissure-damage-explosion entity
+small-demolisher-fissure-explosion entity
+small-demolisher-fissure-scorchmark entity
+small-demolisher-segment-x0_325 entity
+small-demolisher-segment-x0_385 entity
+small-demolisher-segment-x0_435 entity
+small-demolisher-segment-x0_485 entity
+small-demolisher-segment-x0_495 entity
+small-demolisher-segment-x0_54 entity
+small-demolisher-segment-x0_545 entity
+small-demolisher-segment-x0_55 entity
+small-demolisher-segment-x0_585 entity
+small-demolisher-segment-x0_6 entity
+small-demolisher-segment-x0_635 entity
+small-demolisher-segment-x0_64 entity
+small-demolisher-segment-x0_65 entity
+small-demolisher-segment-x0_665 entity
+small-demolisher-segment-x0_68 entity
+small-demolisher-segment-x0_685 entity
+small-demolisher-segment-x0_7 entity
+small-demolisher-segment-x0_705 entity
+small-demolisher-segment-x0_76 entity
+small-demolisher-tail-x0_32 entity
+small-demolisher-trail-lower entity
+small-demolisher-trail-upper entity
+small-electric-pole
+small-electric-pole recipe
+small-electric-pole-explosion entity
+small-electric-pole-recycling recipe
+small-electric-pole-remnants entity
+small-lamp
+small-lamp recipe
+small-lamp-recycling recipe
+small-metallic-asteroid entity
+small-oxide-asteroid entity
+small-promethium-asteroid entity
+small-remnants entity
+small-scorchmark entity
+small-scorchmark-tintable entity
+small-spitter entity
+small-spitter-corpse entity
+small-spitter-die entity
+small-stomper-corpse entity
+small-stomper-pentapod entity
+small-stomper-pentapod-die entity
+small-stomper-pentapod-leg entity
+small-stomper-pentapod-leg-die entity
+small-stomper-shell entity
+small-strafer-corpse entity
+small-strafer-pentapod entity
+small-strafer-pentapod-die entity
+small-strafer-pentapod-leg entity
+small-strafer-pentapod-leg-die entity
+small-worm-corpse entity
+small-worm-corpse-burrowed entity
+small-worm-die entity
+small-worm-turret entity
+small-wriggler-die entity
+small-wriggler-pentapod entity
+small-wriggler-pentapod-corpse entity
+small-wriggler-pentapod-premature entity
+solar-panel
+solar-panel entity
+solar-panel recipe
+solar-panel-equipment
+solar-panel-equipment recipe
+solar-panel-equipment-recycling recipe
+solar-panel-explosion entity
+solar-panel-recycling recipe
+solar-panel-remnants entity
+solar-system-edge space-location
+solid-fuel
+solid-fuel-from-ammonia recipe
+solid-fuel-from-heavy-oil recipe
+solid-fuel-from-light-oil recipe
+solid-fuel-from-petroleum-gas recipe
+solid-fuel-recycling recipe
+space-location-unknown space-location
+space-platform-foundation
+space-platform-foundation recipe
+space-platform-foundation-explosion entity
+space-platform-foundation-recycling recipe
+space-platform-hub
+space-platform-hub entity
+space-platform-hub-recycling recipe
+space-platform-starter-pack recipe
+space-platform-starter-pack-recycling recipe
+space-science-pack recipe
+space-science-pack-recycling recipe
+spark-explosion entity
+spark-explosion-higher entity
+speed-module
+speed-module recipe
+speed-module-2
+speed-module-2 recipe
+speed-module-2-recycling recipe
+speed-module-3
+speed-module-3 recipe
+speed-module-3-recycling recipe
+speed-module-recycling recipe
+spidertron
+spidertron entity
+spidertron recipe
+spidertron-explosion entity
+spidertron-leg-1 entity
+spidertron-leg-2 entity
+spidertron-leg-3 entity
+spidertron-leg-4 entity
+spidertron-leg-5 entity
+spidertron-leg-6 entity
+spidertron-leg-7 entity
+spidertron-leg-8 entity
+spidertron-recycling recipe
+spidertron-remnants entity
+spidertron-remote
+spidertron-remote-recycling recipe
+spidertron-rocket-launcher-1
+spidertron-rocket-launcher-1-recycling recipe
+spidertron-rocket-launcher-2
+spidertron-rocket-launcher-2-recycling recipe
+spidertron-rocket-launcher-3
+spidertron-rocket-launcher-3-recycling recipe
+spidertron-rocket-launcher-4
+spidertron-rocket-launcher-4-recycling recipe
+spitter-spawner entity
+spitter-spawner-corpse entity
+spitter-spawner-die entity
+splitter
+splitter entity
+splitter recipe
+splitter-explosion entity
+splitter-recycling recipe
+splitter-remnants entity
+spoilage
+spoilage-recycling recipe
+stack-inserter
+stack-inserter entity
+stack-inserter recipe
+stack-inserter-explosion entity
+stack-inserter-recycling recipe
+stack-inserter-remnants entity
+steam fluid
+steam-condensation recipe
+steam-engine
+steam-engine entity
+steam-engine recipe
+steam-engine-explosion entity
+steam-engine-recycling recipe
+steam-engine-remnants entity
+steam-turbine
+steam-turbine entity
+steam-turbine recipe
+steam-turbine-explosion entity
+steam-turbine-recycling recipe
+steam-turbine-remnants entity
+steel-chest
+steel-chest entity
+steel-chest recipe
+steel-chest-explosion entity
+steel-chest-recycling recipe
+steel-chest-remnants entity
+steel-furnace
+steel-furnace entity
+steel-furnace recipe
+steel-furnace-explosion entity
+steel-furnace-recycling recipe
+steel-furnace-remnants entity
+steel-plate
+steel-plate recipe
+steel-plate-recycling recipe
+stingfrond entity
+stone entity
+stone-brick
+stone-brick recipe
+stone-brick-recycling recipe
+stone-furnace
+stone-furnace entity
+stone-furnace recipe
+stone-furnace-explosion entity
+stone-furnace-recycling recipe
+stone-furnace-remnants entity
+stone-recycling recipe
+stone-wall
+stone-wall entity
+stone-wall recipe
+stone-wall-recycling recipe
+storage-chest
+storage-chest entity
+storage-chest recipe
+storage-chest-explosion entity
+storage-chest-recycling recipe
+storage-chest-remnants entity
+storage-tank
+storage-tank entity
+storage-tank recipe
+storage-tank-explosion entity
+storage-tank-recycling recipe
+storage-tank-remnants entity
+straight-rail entity
+straight-rail-remnants entity
+submachine-gun
+submachine-gun recipe
+submachine-gun-recycling recipe
+substation
+substation entity
+substation recipe
+substation-explosion entity
+substation-recycling recipe
+substation-remnants entity
+sulfur
+sulfur recipe
+sulfur-recycling recipe
+sulfuric-acid fluid
+sulfuric-acid recipe
+sulfuric-acid-barrel
+sulfuric-acid-barrel recipe
+sulfuric-acid-barrel-recycling recipe
+sulfuric-acid-geyser entity
+sunnycomb entity
+supercapacitor
+supercapacitor
+supercapacitor recipe
+supercapacitor-recycling recipe
+superconductor
+superconductor recipe
+superconductor-recycling recipe
+tank
+tank entity
+tank recipe
+tank-cannon
+tank-cannon-recycling recipe
+tank-explosion entity
+tank-flamethrower
+tank-flamethrower-fire-stream entity
+tank-flamethrower-recycling recipe
+tank-machine-gun
+tank-machine-gun-recycling recipe
+tank-recycling recipe
+tank-remnants entity
+teflilly entity
+tesla-ammo
+tesla-ammo recipe
+tesla-ammo-recycling recipe
+tesla-turret
+tesla-turret entity
+tesla-turret recipe
+tesla-turret-recycling recipe
+tesla-turret-remnants entity
+teslagun
+teslagun recipe
+teslagun-recycling recipe
+thruster
+thruster entity
+thruster recipe
+thruster-fuel fluid
+thruster-fuel recipe
+thruster-oxidizer fluid
+thruster-oxidizer recipe
+thruster-recycling recipe
+tile-ghost entity
+tile-proxy entity
+toolbelt-equipment
+toolbelt-equipment recipe
+toolbelt-equipment-recycling recipe
+train-stop
+train-stop entity
+train-stop recipe
+train-stop-explosion entity
+train-stop-recycling recipe
+train-stop-remnants entity
+transport-belt
+transport-belt entity
+transport-belt recipe
+transport-belt-explosion entity
+transport-belt-recycling recipe
+transport-belt-remnants entity
+tree-01 entity
+tree-01-stump entity
+tree-02 entity
+tree-02-red entity
+tree-02-stump entity
+tree-03 entity
+tree-03-stump entity
+tree-04 entity
+tree-04-stump entity
+tree-05 entity
+tree-05-stump entity
+tree-06 entity
+tree-06-brown entity
+tree-06-stump entity
+tree-07 entity
+tree-07-stump entity
+tree-08 entity
+tree-08-brown entity
+tree-08-red entity
+tree-08-stump entity
+tree-09 entity
+tree-09-brown entity
+tree-09-red entity
+tree-09-stump entity
+tree-dying-proxy entity
+tree-plant entity
+tree-proxy entity
+tree-seed
+tree-seed-recycling recipe
+tungsten-carbide
+tungsten-carbide recipe
+tungsten-carbide-recycling recipe
+tungsten-ore
+tungsten-ore entity
+tungsten-ore-recycling recipe
+tungsten-plate
+tungsten-plate recipe
+tungsten-plate-recycling recipe
+turbo-loader
+turbo-loader entity
+turbo-loader recipe
+turbo-loader-recycling recipe
+turbo-splitter
+turbo-splitter entity
+turbo-splitter recipe
+turbo-splitter-explosion entity
+turbo-splitter-recycling recipe
+turbo-splitter-remnants entity
+turbo-transport-belt
+turbo-transport-belt entity
+turbo-transport-belt recipe
+turbo-transport-belt-explosion entity
+turbo-transport-belt-recycling recipe
+turbo-transport-belt-remnants entity
+turbo-underground-belt
+turbo-underground-belt entity
+turbo-underground-belt recipe
+turbo-underground-belt-explosion entity
+turbo-underground-belt-recycling recipe
+turbo-underground-belt-remnants entity
+uncommon quality
+underground-belt
+underground-belt entity
+underground-belt recipe
+underground-belt-explosion entity
+underground-belt-recycling recipe
+underground-belt-remnants entity
+up-arrow virtual
+up-left-arrow virtual
+up-right-arrow virtual
+upgrade-planner
+upgrade-planner-recycling recipe
+uranium-235
+uranium-235-recycling recipe
+uranium-238
+uranium-238-recycling recipe
+uranium-cannon-explosion entity
+uranium-cannon-shell
+uranium-cannon-shell recipe
+uranium-cannon-shell-explosion entity
+uranium-cannon-shell-recycling recipe
+uranium-fuel-cell
+uranium-fuel-cell recipe
+uranium-fuel-cell-recycling recipe
+uranium-ore
+uranium-ore entity
+uranium-ore-recycling recipe
+uranium-processing recipe
+uranium-rounds-magazine
+uranium-rounds-magazine recipe
+uranium-rounds-magazine-recycling recipe
+utility-science-pack recipe
+utility-science-pack-recycling recipe
+vehicle-machine-gun
+vehicle-machine-gun-recycling recipe
+vulcanus space-location
+vulcanus-chimney entity
+vulcanus-chimney-cold entity
+vulcanus-chimney-faded entity
+vulcanus-chimney-short entity
+vulcanus-chimney-truncated entity
+vulcanus-cliff-collapse entity
+wall-damaged-explosion entity
+wall-explosion entity
+wall-remnants entity
+water fluid
+water-barrel
+water-barrel recipe
+water-barrel-recycling recipe
+water-cane entity
+water-splash entity
+wood-processing recipe
+wood-recycling recipe
+wooden-chest
+wooden-chest entity
+wooden-chest recipe
+wooden-chest-explosion entity
+wooden-chest-recycling recipe
+wooden-chest-remnants entity
+wube-logo-space-platform entity
+yumako
+yumako-mash
+yumako-mash-recycling recipe
+yumako-processing recipe
+yumako-recycling recipe
+yumako-seed
+yumako-seed-recycling recipe
+yumako-tree entity
