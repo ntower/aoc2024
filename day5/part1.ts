@@ -51,19 +51,25 @@ const updates = lines
   .slice(seperatorIndex + 1)
   .map((line) => line.split(",").map((x) => parseInt(x)));
 
-let sum = 0;
-outer: for (const update of updates) {
+const isValid = (update: number[]) => {
   let bannedDigits: Set<number>[] = [];
   for (const num of update) {
     if (bannedDigits.some((set) => set.has(num))) {
-      // update is invalid. Move on to the next, and do not sum
-      continue outer;
-    } else {
-      const newBans = rules[num];
-      if (newBans) {
-        bannedDigits.push(newBans);
-      }
+      return false;
     }
+
+    const newBans = rules[num];
+    if (newBans) {
+      bannedDigits.push(newBans);
+    }
+  }
+  return true;
+};
+
+let sum = 0;
+for (const update of updates) {
+  if (!isValid(update)) {
+    continue;
   }
   // If we get here, then it was a valid update
   const midpoint = Math.floor((update.length - 1) / 2);

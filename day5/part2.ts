@@ -32,7 +32,6 @@ const lines = input.split("\n");
 //    all the numbers on the right hand side become banned, because they would
 //    violate a rule.
 const rules: { [key: number]: Set<number> } = {};
-const allNumbersWithRules = new Set<number>();
 let seperatorIndex = -1;
 for (let i = 0; i < lines.length; i++) {
   const line = lines[i];
@@ -46,8 +45,6 @@ for (let i = 0; i < lines.length; i++) {
     rules[after] = new Set<number>();
   }
   rules[after].add(before);
-  allNumbersWithRules.add(after);
-  allNumbersWithRules.add(before);
 }
 
 const updates = lines
@@ -70,9 +67,9 @@ const isValid = (update: number[]) => {
 };
 
 let sum = 0;
-outer: for (const update of updates) {
+for (const update of updates) {
   if (!isValid(update)) {
-    const sorted = update.sort((a, b) => {
+    update.sort((a, b) => {
       let aMustComeLast = rules[a]?.has(b);
       let bMustComeLast = rules[b]?.has(a);
       if (aMustComeLast && bMustComeLast) {
@@ -87,7 +84,7 @@ outer: for (const update of updates) {
     });
     const midpoint = Math.floor((update.length - 1) / 2);
     sum += update[midpoint];
-    continue outer;
+    continue;
   }
 }
 
