@@ -59,26 +59,32 @@ const canMakeLoop = (
   position: Coordinate,
   direction: Coordinate
 ) => {
+  const additionalTurns: {
+    position: Coordinate;
+    direction: Coordinate;
+  }[] = [];
   // Pretend we turn right now. Will we revisit a turning point?
-  const newDirection = turn(direction);
+  direction = turn(direction);
   while (true) {
-    const nextPosition = move(position, newDirection);
+    const nextPosition = move(position, direction);
     if (isOutOfBounds(nextPosition)) {
       return false;
-    }
-    if (isWall(nextPosition)) {
+    } else if (isWall(nextPosition)) {
+      const turnMatches = (turn) =>
+        turn.position[0] === position[0] &&
+        turn.position[1] == position[1] &&
+        turn.direction === direction;
       if (
-        previousTurns.find(
-          (turn) =>
-            turn.position[0] === position[0] &&
-            turn.position[1] == position[1] &&
-            turn.direction === newDirection
-        )
+        previousTurns.find(turnMatches) ||
+        additionalTurns.find(turnMatches)
       ) {
         return true;
       }
+      additionalTurns.push({ position, direction });
+      direction = turn(direction);
+    } else {
+      position = nextPosition;
     }
-    position = nextPosition;
   }
 };
 
@@ -105,4 +111,5 @@ while (true) {
 }
 
 // Tried submitting 829, too low
+// Tried submitting 2131, too high
 console.log(sum);
