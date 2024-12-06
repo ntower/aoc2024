@@ -1,5 +1,4 @@
-const input = `
-....#.....
+const input = `....#.....
 .........#
 ..........
 ..#.......
@@ -53,25 +52,41 @@ const turn = (direction: Coordinate) => {
   }
 };
 const canMakeLoop = (
-  last3TurningPoints: Coordinate[],
-  position: Coordinate
+  previousTurns: {
+    position: Coordinate;
+    direction: Coordinate;
+  }[],
+  position: Coordinate,
+  direction: Coordinate
 ) => {
-  // BUG: 3 is not enough. Some loops are bigger than a square
-  const loopStart = last3TurningPoints[0];
-  if (!loopStart) {
-    return false;
-  }
-  const returnedToSameRow = position[0] === loopStart[0];
-  const returnedToSameColumn = position[1] === loopStart[1];
-  if (returnedToSameRow || returnedToSameColumn) {
-    // A loop can be created by putting an obstacle directly in front
-    console.log(position);
-    return true;
+  // Pretend we turn right now. Will we revisit a turning point?
+  const newDirection = turn(direction);
+  while (true) {
+    const nextPosition = move(position, newDirection);
+    if (isOutOfBounds(nextPosition)) {
+      return false;
+    }
+    if (isWall(nextPosition)) {
+      if (
+        previousTurns.find(
+          (turn) =>
+            turn.position[0] === position[0] &&
+            turn.position[1] == position[1] &&
+            turn.direction === newDirection
+        )
+      ) {
+        return true;
+      }
+    }
+    position = nextPosition;
   }
 };
 
 let sum = 0;
-const last3TurningPoints: Coordinate[] = [];
+const previousTurns: {
+  position: Coordinate;
+  direction: Coordinate;
+}[] = [];
 
 while (true) {
   map[position[0]][position[1]] = "X";
@@ -79,17 +94,15 @@ while (true) {
   if (isOutOfBounds(nextPosition)) {
     break;
   } else if (isWall(nextPosition)) {
-    if (last3TurningPoints.length === 3) {
-      last3TurningPoints.shift();
-    }
-    last3TurningPoints.push(position);
+    previousTurns.push({ position, direction });
     direction = turn(direction);
   } else {
-    if (canMakeLoop(last3TurningPoints, position)) {
+    if (canMakeLoop(previousTurns, position, direction)) {
       sum++;
     }
     position = nextPosition;
   }
 }
 
+// Tried submitting 829, too low
 console.log(sum);
