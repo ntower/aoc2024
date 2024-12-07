@@ -18,13 +18,12 @@ const down: Coordinate = [1, 0];
 const left: Coordinate = [0, -1];
 const right: Coordinate = [0, 1];
 
-let direction: Coordinate = up;
-let position: Coordinate = [0, 0];
+let startingPosition: Coordinate = [0, 0];
 
 for (let i = 0; i < map.length; i++) {
   for (let j = 0; j < map[i].length; j++) {
     if (map[i][j] === "^") {
-      position = [i, j];
+      startingPosition = [i, j];
       break;
     }
   }
@@ -51,36 +50,28 @@ const turn = (direction: Coordinate) => {
     return up;
   }
 };
-const canMakeLoop = (
-  previousTurns: {
-    position: Coordinate;
-    direction: Coordinate;
-  }[],
-  position: Coordinate,
-  direction: Coordinate
-) => {
-  const additionalTurns: {
-    position: Coordinate;
-    direction: Coordinate;
-  }[] = [];
-  // Pretend we turn right now. Will we revisit a turning point?
-  direction = turn(direction);
+
+let sum = 0;
+
+const getKey = (position: Coordinate, direction: Coordinate) =>
+  `${position[0]},${position[1]},${direction[0]},${direction[1]}`;
+
+const causesLoop = () => {
+  let position = startingPosition;
+  let direction = up;
+  const visited: { [key: string]: boolean } = {};
+
   while (true) {
     const nextPosition = move(position, direction);
     if (isOutOfBounds(nextPosition)) {
       return false;
     } else if (isWall(nextPosition)) {
-      const turnMatches = (turn) =>
-        turn.position[0] === position[0] &&
-        turn.position[1] == position[1] &&
-        turn.direction === direction;
-      if (
-        previousTurns.find(turnMatches) ||
-        additionalTurns.find(turnMatches)
-      ) {
+      const key = getKey(position, direction);
+      if (visited[key]) {
+        // Loop!
         return true;
       }
-      additionalTurns.push({ position, direction });
+      visited[key] = true;
       direction = turn(direction);
     } else {
       position = nextPosition;
@@ -88,28 +79,22 @@ const canMakeLoop = (
   }
 };
 
-let sum = 0;
-const previousTurns: {
-  position: Coordinate;
-  direction: Coordinate;
-}[] = [];
+for (let i = 0; i < map.length; i++) {
+  for (let j = 0; j < map[i].length; j++) {
+    let oldSymbol = map[i][j];
+    if (oldSymbol === "#") {
+      // Already a wall
+      continue;
+    }
 
-while (true) {
-  map[position[0]][position[1]] = "X";
-  const nextPosition = move(position, direction);
-  if (isOutOfBounds(nextPosition)) {
-    break;
-  } else if (isWall(nextPosition)) {
-    previousTurns.push({ position, direction });
-    direction = turn(direction);
-  } else {
-    if (canMakeLoop(previousTurns, position, direction)) {
+    map[i][j] = "#";
+
+    if (causesLoop()) {
       sum++;
     }
-    position = nextPosition;
+
+    map[i][j] = oldSymbol;
   }
 }
 
-// Tried submitting 829, too low
-// Tried submitting 2131, too high
 console.log(sum);
