@@ -22,6 +22,8 @@ const equations: {
 const operators = [
   (a: number, b: number) => a + b,
   (a: number, b: number) => a * b,
+  // concatenate
+  (a: number, b: number) => parseInt(`${a}${b}`),
 ];
 
 const evaluateEquation = (values: number[]): number[] => {
